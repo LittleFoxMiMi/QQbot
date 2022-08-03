@@ -1,0 +1,40 @@
+[2022-04-26 04:30:28] [INFO]: 当前版本:v1.0.0-rc1 
+[2022-04-26 04:30:28] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-04-26 04:30:28] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-04-26 04:30:33] [INFO]: 开始尝试登录并同步消息... 
+[2022-04-26 04:30:33] [INFO]: 使用协议: iPad 
+[2022-04-26 04:30:36] [INFO]: Protocol -> connect to server: 43.135.106.161:8080 
+[2022-04-26 04:30:39] [INFO]: 收到服务器地址更新通知, 将在下一次重连时应用.  
+[2022-04-26 04:30:39] [INFO]: 登录成功 欢迎使用: 小八的狐狸耳朵~ 
+[2022-04-26 04:30:39] [INFO]: 开始加载好友列表... 
+[2022-04-26 04:30:39] [INFO]: 共加载 4 个好友. 
+[2022-04-26 04:30:39] [INFO]: 开始加载群列表... 
+[2022-04-26 04:30:40] [INFO]: 共加载 5 个群. 
+[2022-04-26 04:30:40] [INFO]: 资源初始化完成, 开始处理信息. 
+[2022-04-26 04:30:40] [INFO]: アトリは、高性能ですから! 
+[2022-04-26 04:30:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-04-26 04:30:40] [INFO]: 正在检查更新. 
+[2022-04-26 04:30:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-04-26 04:30:41] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2022-04-26 04:30:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-04-26 04:30:43] [INFO]: 已连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-04-26 04:30:45] [INFO]: 开始诊断网络情况 
+[2022-04-26 04:30:50] [INFO]: 网络诊断完成. 未发现问题 
+[2022-04-26 07:48:01] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 阿格努(710621309) 的消息: [CQ:image,file=aecb1512f7c3b3f98deeb6e94b065ffa.image,subType=0] (1852578658) 
+[2022-04-26 14:21:38] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 炎头队长沙福林(2175422756) 的消息: [CQ:forward,id=4exlUPncyvd15rwXVjo6VFJZQTRH2n7hNNy+N9CwclVV9aOsOHBS12isJ1yJsg8m] (-144356648) 
+[2022-04-26 14:21:38] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 炎头队长沙福林(2175422756) 的消息: [CQ:forward,id=zb4l07fVjO7GFuPph51iYu9BRg/5eJ7mkHizr+On7jQAJfeE5q8uGSjLREmOTJNk] (-2141029810) 
+[2022-04-26 14:21:38] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 炎头队长沙福林(2175422756) 的消息: [CQ:forward,id=V6idOsi6f0UKXJWUWGhP5MvsmCqZDQO70IZxsqoA3Lbp2zpGXFUcrCEj3dF16A+y] (503771117) 
+[2022-04-26 14:21:38] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 炎头队长沙福林(2175422756) 的消息: [CQ:forward,id=z9EhDOVjJkGoXLIXpnsrx0ebO3NTE77qh7g4jtxE1DBp7ly8yJlXNhfzya+QjXBr] (1761730427) 
+[2022-04-26 16:57:47] [INFO]: 发送群 Py QQbot(813476953) 的消息: Tm发了新视频「”且 ... (600551700) 
+[2022-04-26 16:57:48] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (-1112595273) 
+[2022-04-26 17:12:59] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 阿格努(710621309) 的消息: [CQ:image,file=15c921d12b67a1c1d89601fc205dcb3d.image,subType=0] (-267874623) 
+[2022-04-26 17:16:39] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 炎头队长沙福林(2175422756) 的消息: 还有这种事 (-2029011369) 
+[2022-04-26 17:16:52] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 炎头队长沙福林(2175422756) 的消息: 你已经会做模型了吗！ (397452230) 
+[2022-04-26 17:18:59] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 盒子咸鱼(951399482) 的消息: [CQ:image,file=e2eaf27dbebf52853aeb550c6f797363.image,subType=1] (1622643536) 
+[2022-04-26 17:19:07] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 盒子咸鱼(951399482) 的消息: 什么群友怎么偷偷变强 (1445641523) 
+[2022-04-26 17:25:43] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 阿格努(710621309) 的消息: 是我就好喽 (556633509) 
+[2022-04-26 17:25:57] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 阿格努(710621309) 的消息: 我转别的群大佬的 (-1205543905) 
+[2022-04-26 19:59:05] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 Baki今天吃冒险家(3117086319) 的消息: [CQ:json,data={"app":"com.tencent.miniapp_01"&#44;"appID":"100951776"&#44;"bthirdappforward":true&#44;"bthirdappforwardforbackendswitch":true&#44;"config":{"autoSize":0&#44;"ctime":1650974341&#44;"forward":1&#44;"height":0&#44;"token":"770f971c2b19cf2a9eb3596e96eac4d0"&#44;"type":"normal"&#44;"width":0}&#44;"desc":""&#44;"extra":{"app_type":1&#44;"appid":100951776&#44;"uin":3117086319}&#44;"meta":{"detail_1":{"appType":0&#44;"appid":"1109937557"&#44;"desc":"【环世界大型连续剧-赛博蛐蛐】第一集 流放"&#44;"gamePoints":""&#44;"gamePointsUrl":""&#44;"host":{"nick":"Baki今天吃冒险家"&#44;"uin":3117086319}&#44;"icon":"http://miniapp.gtimg.cn/public/appicon/432b76be3a548fc128acaa6c1ec90131_200.jpg"&#44;"preview":"https://pic.ugcimg.cn/2debd8aebb7d5c1236dd6ced2748d93a/jpg1"&#44;"qqdocurl":"https://b23.tv/2Qu2RfB"&#44;"scene":1036&#44;"shareTemplateData":{}&#44;"shareTemplateId":"8C8E89B49BE609866298ADDFF2DBABA4"&#44;"showLittleTail":""&#44;"title":"哔哩哔哩"&#44;"url":"m.q.qq.com/a/s/5b16dd6785763db761e2b8626a185884"}}&#44;"prompt":"&#91;QQ小程序&#93;哔哩哔哩"&#44;"ver":"0.0.0.1"&#44;"view":"view_8C8E89B49BE609866298ADDFF2DBABA4"}] (-819729271) 
+[2022-04-26 20:45:43] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵发了新动态：  ... (-894954463) 
+[2022-04-26 20:45:51] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (1403078043) 
+[2022-04-26 20:45:51] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (614888717) 

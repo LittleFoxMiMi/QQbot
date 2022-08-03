@@ -1,0 +1,204 @@
+[2022-03-11 03:10:40] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵转发了「Pin ... (1920927331) 
+[2022-03-11 03:10:40] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (91764469) 
+[2022-03-11 03:13:40] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵发了新动态：  ... (-1670289585) 
+[2022-03-11 03:13:42] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (-344565799) 
+[2022-03-11 03:13:44] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (2076789320) 
+[2022-03-11 03:13:45] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (214858462) 
+[2022-03-11 03:13:46] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (1581224377) 
+[2022-03-11 13:46:35] [INFO]: 当前版本:v1.0.0-rc1 
+[2022-03-11 13:46:35] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-11 13:46:35] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-11 13:50:24] [INFO]: 当前版本:v1.0.0-rc1 
+[2022-03-11 13:50:24] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-11 13:50:24] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-11 13:50:29] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-11 13:50:29] [INFO]: 使用协议: iPad 
+[2022-03-11 13:50:32] [INFO]: Protocol -> connect to server: 203.205.255.221:8080 
+[2022-03-11 13:50:36] [INFO]: 收到服务器地址更新通知, 将在下一次重连时应用.  
+[2022-03-11 13:50:37] [INFO]: 登录成功 欢迎使用: 小八的狐狸耳朵~ 
+[2022-03-11 13:50:37] [INFO]: 开始加载好友列表... 
+[2022-03-11 13:50:37] [INFO]: 共加载 4 个好友. 
+[2022-03-11 13:50:37] [INFO]: 开始加载群列表... 
+[2022-03-11 13:50:38] [INFO]: 共加载 5 个群. 
+[2022-03-11 13:50:38] [INFO]: 资源初始化完成, 开始处理信息. 
+[2022-03-11 13:50:38] [INFO]: アトリは、高性能ですから! 
+[2022-03-11 13:50:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:50:38] [INFO]: 正在检查更新. 
+[2022-03-11 13:50:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:50:38] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2022-03-11 13:50:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:50:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:50:43] [INFO]: 开始诊断网络情况 
+[2022-03-11 13:50:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:50:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:50:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:50:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:50:48] [INFO]: 网络诊断完成. 未发现问题 
+[2022-03-11 13:50:50] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:50:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:50:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:50:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:50:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:50:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:50:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:50:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:05] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:08] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:11] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:20] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:23] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:26] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:35] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:50] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:51:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:51:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:05] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:08] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:11] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:20] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:23] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:26] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:35] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:50] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:52:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:52:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:05] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:08] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:11] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:20] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:23] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:26] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:35] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:50] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-03-11 13:53:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:53:59] [INFO]: 已连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-11 13:54:28] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: youtubedl https://twitter.com/channel_station/status/1501852696814714880?t=nvDOgCEBnk0dyUPlIYA4MA&amp;s=19 mp4 miku (-1338904427) 
+[2022-03-11 13:54:29] [INFO]: 发送群 Py QQbot(813476953) 的消息: [{"type":  ... (-952713213) 
+[2022-03-11 14:00:56] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: 确实 (402174215) 
+[2022-03-11 14:01:02] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: 但是为什么不是巧乐兹 (-1896750915) 
+[2022-03-11 14:01:20] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: 其实我更喜欢巧乐兹 (-101265365) 
+[2022-03-11 14:01:24] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: [CQ:image,file=657f25ffaee80649c4d70c00997b23c2.image,subType=1] (1766444474) 
+[2022-03-11 14:16:07] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 巧乐兹又不像 (508493100) 
+[2022-03-11 14:28:30] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 主要还是随变的外壳坚果碎 (2122937545) 
+[2022-03-11 14:28:33] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: [CQ:image,file=2d10d375313cdb61bc355415ec6aac5c.image,subType=1] (160318559) 
+[2022-03-11 14:36:35] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 炎头队长沙福林(2175422756) 的消息: [CQ:forward,id=6LXddJqiRxqmxruS0e7sF/OOIX7/UErysT7bA09+gJ8Avz/BhFjK4RKDJf+9VoND] (-471814213) 
+[2022-03-11 14:37:36] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 炎头队长沙福林(2175422756) 的消息: [CQ:forward,id=n2HmUQLWt7vhj3qPyHcl64gR7p72rUCN6Ww1kzxgkHUG+7QwQGwbOZTESfvbJXtV] (-1796759763) 
+[2022-03-11 14:38:24] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 炎头队长沙福林(2175422756) 的消息: 亚顿之矛:太阳轰炸 (233754263) 
+[2022-03-11 14:42:06] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 阿格努(710621309) 的消息: [CQ:image,file=8f4495dcfd5c3b9bf30757aec8e225d8.image,subType=1] (2062155265) 
+[2022-03-11 14:44:49] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: 确实 (-1870195227) 
+[2022-03-11 15:08:11] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 高橋啟介(791258074) 的消息: [CQ:image,file=16281603d76f49e4747e488d7daffa21.image,subType=1] (-363404400) 
+[2022-03-11 15:08:16] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 高橋啟介(791258074) 的消息: 很棒 (-1655581946) 
+[2022-03-11 15:16:23] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: [CQ:image,file=35bd3a56a4382268f1d83cac9d7ab653.image,subType=0] (-411032205) 
+[2022-03-11 15:16:36] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 康，好多一斗♂巧克力棒 (2045030608) 
+[2022-03-11 19:21:02] [ERROR]: Protocol -> highway upload long message error: upload failed 
+[2022-03-11 19:21:04] [INFO]: 发送群 Py QQbot(813476953) 的消息: 狗妈转发了「冬守雫_ ... (777348406) 
+[2022-03-11 19:21:05] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (-1218694004) 
+[2022-03-11 20:14:59] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵发了新动态：  ... (-1067776998) 
+[2022-03-11 20:15:01] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (1357126027) 
+[2022-03-11 20:15:02] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (669198621) 
+[2022-03-11 20:20:58] [INFO]: 发送群 Py QQbot(813476953) 的消息: 鹿乃酱发了新视频「【 ... (1193582840) 
+[2022-03-11 20:20:58] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (807637102) 
+[2022-03-11 20:32:40] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 炎头队长沙福林(2175422756) 的消息: [CQ:forward,id=23w6PnC230tOSlclfMf3IBgJIWaylcYIPRuQAzRVxpQhBn7E6JpmdERmWBnAGBHs] (923365042) 
+[2022-03-11 20:32:53] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 炎头队长沙福林(2175422756) 的消息: 我不看 但我 感觉 你们可能会 喜欢 (1074683428) 
+[2022-03-11 20:40:06] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 圣徒的亡灵(1339837523) 的消息: 看着不像小学生呀 (-653848674) 
+[2022-03-11 20:43:29] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 原谅我不懂嗳(2748482072) 的消息: 看着像初中生 (-1375715576) 
+[2022-03-11 20:49:28] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 圣徒的亡灵(1339837523) 的消息: http://ali-uget.static.yximgs.com/bs2/courseHead/11071390439961338550 (811903659) 
+[2022-03-11 21:32:28] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 Baki今天吃冒险家(3117086319) 的消息: 这是个锤子小学生 (1197709885) 
+[2022-03-11 22:08:31] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 简单先上盆饭(372338248) 的消息: 馒头批[CQ:face,id=2][CQ:face,id=2] (-563426425) 
+[2022-03-11 22:09:41] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 重装KGZ晓琳(2860677522) 的消息: 小学生？ (-1452410095) 
+[2022-03-11 22:09:44] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 重装KGZ晓琳(2860677522) 的消息: 见鬼去吧 (970122880) 
+[2022-03-11 22:09:50] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 重装KGZ晓琳(2860677522) 的消息: 至少18出头 (1322636822) 
+[2022-03-11 22:27:23] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 简单先上盆饭(372338248) 的消息: 18不至于 (772956147) 
+[2022-03-11 22:27:33] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 简单先上盆饭(372338248) 的消息: 初高中生 (1494576997) 
+[2022-03-11 22:35:00] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 阿格努(710621309) 的消息: 视频发给她爹看看 (-1071890721) 
+[2022-03-11 23:09:39] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 音无 奏🦖(296053120) 的消息: [CQ:image,file=0fc304f00f5fa0318771e0e6a39d5e2f.image,subType=0] (-1222963639) 

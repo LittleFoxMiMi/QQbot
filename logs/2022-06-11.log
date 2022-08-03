@@ -1,0 +1,51 @@
+[2022-06-11 00:04:36] [INFO]: 收到好友 小八的狐狸尾巴~(1216878448) 的消息: [CQ:json,data={"app":"com.tencent.miniapp_01"&#44;"config":{"autoSize":0&#44;"ctime":1654877075&#44;"forward":1&#44;"height":0&#44;"token":"74acb0053706ae84e4964697b7453d72"&#44;"type":"normal"&#44;"width":0}&#44;"desc":"哔哩哔哩"&#44;"extra":{"app_type":1&#44;"appid":100951776&#44;"uin":1216878448}&#44;"meta":{"detail_1":{"appType":0&#44;"appid":"1109937557"&#44;"desc":"【17亿参数】我训练了一个会写高考作文的人工智能"&#44;"gamePoints":""&#44;"gamePointsUrl":""&#44;"host":{"nick":"小八的狐狸尾巴~"&#44;"uin":1216878448}&#44;"icon":"http://miniapp.gtimg.cn/public/appicon/432b76be3a548fc128acaa6c1ec90131_200.jpg"&#44;"preview":"pubminishare-30161.picsz.qpic.cn/e5d2208f-efd8-4c0a-8b6d-3692ba0b7b56"&#44;"qqdocurl":"https://b23.tv/HeYxIBq?share_medium=android&amp;share_source=qq&amp;bbid=XY8779C885C545C5777C67B5A657003D75A26&amp;ts=1654877067466"&#44;"scene":1036&#44;"shareTemplateData":{}&#44;"shareTemplateId":"8C8E89B49BE609866298ADDFF2DBABA4"&#44;"showLittleTail":""&#44;"title":"哔哩哔哩"&#44;"url":"m.q.qq.com/a/s/e3ecf9fc4648eeb676671dce103c09ec"}}&#44;"needShareCallBack":false&#44;"prompt":"&#91;QQ小程序&#93;哔哩哔哩"&#44;"ver":"1.0.0.19"&#44;"view":"view_8C8E89B49BE609866298ADDFF2DBABA4"}] (1808577302) 
+[2022-06-11 04:15:43] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 --初见--(920592790) 的消息: [CQ:at,qq=515481577] 视频失效了。球球老哥私给我吧， (-1427330896) 
+[2022-06-11 04:30:02] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-06-11 04:30:26] [INFO]: 当前版本:v1.0.0-rc1 
+[2022-06-11 04:30:26] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-06-11 04:30:26] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-06-11 04:30:31] [INFO]: 开始尝试登录并同步消息... 
+[2022-06-11 04:30:31] [INFO]: 使用协议: iPad 
+[2022-06-11 04:30:35] [INFO]: Protocol -> connect to server: 43.135.106.161:8080 
+[2022-06-11 04:30:38] [INFO]: 收到服务器地址更新通知, 将在下一次重连时应用.  
+[2022-06-11 04:30:39] [INFO]: 登录成功 欢迎使用: 小八的狐狸耳朵~ 
+[2022-06-11 04:30:39] [INFO]: 开始加载好友列表... 
+[2022-06-11 04:30:39] [INFO]: 共加载 4 个好友. 
+[2022-06-11 04:30:39] [INFO]: 开始加载群列表... 
+[2022-06-11 04:30:40] [INFO]: 共加载 5 个群. 
+[2022-06-11 04:30:40] [INFO]: 资源初始化完成, 开始处理信息. 
+[2022-06-11 04:30:40] [INFO]: アトリは、高性能ですから! 
+[2022-06-11 04:30:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-06-11 04:30:40] [INFO]: 正在检查更新. 
+[2022-06-11 04:30:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-06-11 04:30:41] [INFO]: 当前有更新的 go-cqhttp 可供更新, 请前往 https://github.com/Mrs4s/go-cqhttp/releases 下载. 
+[2022-06-11 04:30:41] [INFO]: 当前版本: v1.0.0-rc1 最新版本: v1.0.0-rc2 
+[2022-06-11 04:30:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-06-11 04:30:43] [INFO]: 已连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-06-11 04:30:45] [INFO]: 开始诊断网络情况 
+[2022-06-11 04:30:50] [INFO]: 网络诊断完成. 未发现问题 
+[2022-06-11 08:07:02] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 阿格努(710621309) 的消息: 转发一下也不行 (-571762650) 
+[2022-06-11 09:58:11] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 ‭ (363843342) 的消息: 本案中，动手的多名男子毫无疑问，冲破了这种传统思想的束缚，真正践行了男女平等的观念，没有歧视女性的地位，而把她们看做是旗鼓相当，需要全力以赴的对手。 (-1121185341) 
+[2022-06-11 12:26:47] [INFO]: 成员 A(3100981938) 离开了群 kenshi汉化和mod研究及暖暖化制作监督委员会-1群(696654735). 
+[2022-06-11 14:15:52] [INFO]: 收到好友 小八的狐狸尾巴~(1216878448) 的消息: 开头
+With regard to 这件事,viewpoints very considerably.(大家的观点相差很大)
+The vast majority of people contend that … （大多数人认为。。。）
+However, as far as I’m concerned, I’m in line with the view that…(然而我认为。。。)
+中间
+First and foremost, never can we ignore the importance of …
+To clarify(解释), the major determinant lies in…（首要的原因是。。。）
+The second noteworthy reason is that …(第二点是。。。)
+This point is best illustrated by the case of …(举例论证)
+Accordingly，it is obviously that…（结论）
+All in all, considering all the factors above, it is natural to reach the conclusion that …(凑字数用的结尾) (1150645391) 
+[2022-06-11 16:27:46] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵发了新视频「【 ... (-1277683254) 
+[2022-06-11 16:27:47] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (-992007844) 
+[2022-06-11 17:00:44] [INFO]: 发送群 Py QQbot(813476953) 的消息: 鹿乃酱发了新视频「【 ... (1574336742) 
+[2022-06-11 17:00:45] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (718358640) 
+[2022-06-11 20:06:43] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵发了新动态：  ... (-1263149613) 
+[2022-06-11 20:06:44] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (-1011684027) 
+[2022-06-11 20:06:47] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (1522253055) 
+[2022-06-11 20:06:47] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (767331433) 
+[2022-06-11 20:30:44] [INFO]: 发送群 Py QQbot(813476953) 的消息: 鹿乃酱转发了「鹿乃ち ... (-1123839496) 
+[2022-06-11 20:30:45] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (-905666194) 
+[2022-06-11 21:20:54] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 阿格努(710621309) 的消息: 好无聊 好想被嘎腰子[CQ:face,id=98] (-903143083) 

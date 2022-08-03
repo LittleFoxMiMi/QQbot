@@ -1,0 +1,360 @@
+[2022-03-03 04:30:28] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 04:30:28] [INFO]: 用户交流群: 721829413 
+[2022-03-03 04:30:28] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 04:30:28] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 04:30:33] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 04:30:33] [INFO]: 使用协议: iPad 
+[2022-03-03 04:30:37] [INFO]: Protocol -> connect to server: 203.205.255.221:8080 
+[2022-03-03 04:30:37] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:30:52] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:31:07] [WARNING]: 恢复会话失败: Packet timed out , 尝试使用正常流程登录. 
+[2022-03-03 04:31:10] [INFO]: Protocol -> connect to server: 203.205.255.221:8080 
+[2022-03-03 04:31:11] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:31:26] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:31:40] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 04:31:41] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 04:31:41] [INFO]: 用户交流群: 721829413 
+[2022-03-03 04:31:41] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 04:31:41] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 04:31:46] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 04:31:46] [INFO]: 使用协议: iPad 
+[2022-03-03 04:31:49] [INFO]: Protocol -> connect to server: 203.205.255.221:8080 
+[2022-03-03 04:31:50] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:32:05] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:32:19] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 04:32:20] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 04:32:20] [INFO]: 用户交流群: 721829413 
+[2022-03-03 04:32:20] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 04:32:20] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 04:32:25] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 04:32:25] [INFO]: 使用协议: iPad 
+[2022-03-03 04:32:29] [INFO]: Protocol -> connect to server: 203.205.255.220:8080 
+[2022-03-03 04:32:29] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:32:44] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:32:59] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 04:33:00] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 04:33:00] [INFO]: 用户交流群: 721829413 
+[2022-03-03 04:33:00] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 04:33:00] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 04:33:05] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 04:33:05] [INFO]: 使用协议: iPad 
+[2022-03-03 04:33:08] [INFO]: Protocol -> connect to server: 203.205.255.221:8080 
+[2022-03-03 04:33:08] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:33:23] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:33:38] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 04:33:39] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 04:33:39] [INFO]: 用户交流群: 721829413 
+[2022-03-03 04:33:39] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 04:33:39] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 04:33:44] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 04:33:44] [INFO]: 使用协议: iPad 
+[2022-03-03 04:33:47] [INFO]: Protocol -> connect to server: 203.205.255.220:8080 
+[2022-03-03 04:33:48] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:34:02] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:34:17] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 04:34:18] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 04:34:18] [INFO]: 用户交流群: 721829413 
+[2022-03-03 04:34:18] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 04:34:18] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 04:34:23] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 04:34:23] [INFO]: 使用协议: iPad 
+[2022-03-03 04:34:26] [INFO]: Protocol -> connect to server: 203.205.255.220:8080 
+[2022-03-03 04:34:27] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:34:42] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:34:56] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 04:34:56] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 04:34:56] [INFO]: 用户交流群: 721829413 
+[2022-03-03 04:34:56] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 04:34:56] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 04:35:01] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 04:35:01] [INFO]: 使用协议: iPad 
+[2022-03-03 04:35:04] [INFO]: Protocol -> connect to server: 203.205.255.221:8080 
+[2022-03-03 04:35:05] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:35:20] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 04:35:35] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 04:35:36] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 04:35:36] [INFO]: 用户交流群: 721829413 
+[2022-03-03 04:35:36] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 04:35:36] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 04:35:41] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 04:35:41] [INFO]: 使用协议: iPad 
+[2022-03-03 04:35:44] [INFO]: Protocol -> connect to server: 203.205.255.220:8080 
+[2022-03-03 04:35:47] [INFO]: 登录成功 欢迎使用: 小八的狐狸耳朵~ 
+[2022-03-03 04:35:47] [INFO]: 开始加载好友列表... 
+[2022-03-03 04:35:47] [INFO]: 共加载 4 个好友. 
+[2022-03-03 04:35:47] [INFO]: 开始加载群列表... 
+[2022-03-03 04:35:48] [INFO]: 共加载 5 个群. 
+[2022-03-03 04:35:48] [INFO]: 信息数据库初始化完成. 
+[2022-03-03 04:35:48] [INFO]: 资源初始化完成, 开始处理信息. 
+[2022-03-03 04:35:48] [INFO]: アトリは、高性能ですから! 
+[2022-03-03 04:35:48] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 04:35:48] [INFO]: 正在检查更新. 
+[2022-03-03 04:35:48] [INFO]: 收到服务器地址更新通知, 将在下一次重连时应用.  
+[2022-03-03 04:35:48] [INFO]: 当前有更新的 go-cqhttp 可供更新, 请前往 https://github.com/Mrs4s/go-cqhttp/releases 下载. 
+[2022-03-03 04:35:48] [INFO]: 当前版本: v1.0.0-beta6 最新版本: v1.0.0-rc1 
+[2022-03-03 12:41:10] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:json,data={"app":"com.tencent.miniapp_01"&#44;"config":{"autoSize":0&#44;"ctime":1646282468&#44;"forward":1&#44;"height":0&#44;"token":"4a79a29201b95c678fa2e51bc672cc05"&#44;"type":"normal"&#44;"width":0}&#44;"desc":"哔哩哔哩"&#44;"extra":{"app_type":1&#44;"appid":100951776&#44;"uin":1216878448}&#44;"meta":{"detail_1":{"appid":"1109937557"&#44;"desc":"【原神】毛绒徽章算是给玩明白了"&#44;"gamePoints":""&#44;"gamePointsUrl":""&#44;"host":{"nick":"小八的狐狸尾巴~"&#44;"uin":1216878448}&#44;"icon":"http://miniapp.gtimg.cn/public/appicon/432b76be3a548fc128acaa6c1ec90131_200.jpg"&#44;"preview":"pubminishare-30161.picsz.qpic.cn/5c7810a3-3162-4487-8ae7-04335da9b4df"&#44;"qqdocurl":"https://b23.tv/3ThRzko?share_medium=android&amp;share_source=qq&amp;bbid=XY0538E06FF6F401D5AAC381F933734A1B73D&amp;ts=1646282461996"&#44;"scene":1036&#44;"shareTemplateData":{}&#44;"shareTemplateId":"8C8E89B49BE609866298ADDFF2DBABA4"&#44;"showLittleTail":""&#44;"title":"哔哩哔哩"&#44;"url":"m.q.qq.com/a/s/613fb63cb11ad3799e30c638c9fee2f5"}}&#44;"needShareCallBack":false&#44;"prompt":"&#91;QQ小程序&#93;哔哩哔哩"&#44;"ver":"1.0.0.19"&#44;"view":"view_8C8E89B49BE609866298ADDFF2DBABA4"}] (1597201396) 
+[2022-03-03 12:56:23] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 鲶鱼诺(1542195170) 的消息: woc (674524002) 
+[2022-03-03 12:56:24] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 鲶鱼诺(1542195170) 的消息: 我要下单 (-1198819597) 
+[2022-03-03 12:56:27] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 鲶鱼诺(1542195170) 的消息: 😂 (-812890523) 
+[2022-03-03 13:00:20] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 徐狗霞(1726925852) 的消息: 卧槽 (-1652708094) 
+[2022-03-03 13:00:22] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 徐狗霞(1726925852) 的消息: 我也 (-361063020) 
+[2022-03-03 13:00:25] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 徐狗霞(1726925852) 的消息: [CQ:image,file=6699e482e08cb8e3a9730b5546f692a2.image] (1936968750) 
+[2022-03-03 13:01:33] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 草 (74775736) 
+[2022-03-03 13:08:32] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 鲶鱼诺(1542195170) 的消息: [CQ:image,file=6699e482e08cb8e3a9730b5546f692a2.image] (-1710200549) 
+[2022-03-03 13:08:35] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 鲶鱼诺(1542195170) 的消息: 团购 (-317236851) 
+[2022-03-03 13:08:37] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 鲶鱼诺(1542195170) 的消息: 笑死了 (1948125239) 
+[2022-03-03 13:24:32] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: 我超 (51984545) 
+[2022-03-03 13:24:42] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: 《我要私底下自己揉》 (-1817828048) 
+[2022-03-03 13:25:08] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: [CQ:image,file=050040c47effaf54db3b26b2034e126c.image] (-459205210) 
+[2022-03-03 13:25:14] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: 那个第一下 (-2073650109) 
+[2022-03-03 13:25:20] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: 属实是震惊到我了 (-211702571) 
+[2022-03-03 13:25:30] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: 前面还在想这是啥 (1785265519) 
+[2022-03-03 13:25:51] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: 直到她把离宝的 咳  (493866489) 
+[2022-03-03 13:25:59] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: 揉变形了啊！！ (-2096408486) 
+[2022-03-03 13:26:18] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 曾德狗(97189033) 的消息: [CQ:image,file=b1c91a1d122f84babd7d562d9a30c9cc.image] (-200513332) 
+[2022-03-03 13:34:14] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:image,file=9af84ba38ce582c5ffd0b2371e160f36.image] (1829058934) 
+[2022-03-03 14:04:44] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:image,file=5f5ce163f9734a3643fd0393d4acaa07.image] (436341216) 
+[2022-03-03 14:04:54] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:image,file=d1a3bd3fe88b5a71f9d3532a286259f6.image] (-1967319951) 
+[2022-03-03 14:05:13] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: ¿ (-38132505) 
+[2022-03-03 14:05:20] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: [CQ:image,file=5dc370b525ca60204b9ef962b3228d11.image] (-886633852) 
+[2022-03-03 14:39:45] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵发了新视频「【 ... (-788053333) 
+[2022-03-03 14:39:45] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (1208881937) 
+[2022-03-03 15:02:30] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 岂无飞(402818767) 的消息: [CQ:forward,id=ewkrJMn+x7ZXKAD34AA9kmkTfvLFfgNZu9ca3p3O8YyWwKe8NtmGn2UiRVTQKXgt] (1610128861) 
+[2022-03-03 16:47:03] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 阿格努(710621309) 的消息: [CQ:image,file=d230416dc35bca856fe17a85c283771a.image] (687844683) 
+[2022-03-03 19:45:03] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 圣徒的亡灵(1339837523) 的消息: 还有吗?炎头说还想看 (1211638958) 
+[2022-03-03 20:03:45] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵发了新动态：  ... (1057563527) 
+[2022-03-03 20:03:52] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (-1347011050) 
+[2022-03-03 20:03:55] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (-659485056) 
+[2022-03-03 20:03:58] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (1902995290) 
+[2022-03-03 20:03:58] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (107632588) 
+[2022-03-03 20:04:04] [INFO]: 新成员 【K-STAR丶CN】(8779140) 进入了群 kenshi汉化和mod研究及暖暖化制作监督委员会-1群(696654735). 
+[2022-03-03 20:09:42] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵转发了「Mr. ... (-1620900234) 
+[2022-03-03 20:09:43] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (-396085536) 
+[2022-03-03 20:44:57] [INFO]: 收到好友 小八的狐狸尾巴~(1216878448) 的消息: https://lab.magiconch.com/homo/ (729288411) 
+[2022-03-03 21:28:33] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-03-03 21:28:38] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:58476->127.0.0.1:15510: use of closed network connection 
+[2022-03-03 21:28:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 21:29:01] [INFO]: 收到好友 小八的狐狸尾巴~(1216878448) 的消息: homo 114 (-650297008) 
+[2022-03-03 21:30:41] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-03-03 21:30:48] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:56696->127.0.0.1:15510: use of closed network connection 
+[2022-03-03 21:30:51] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 21:34:45] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-03-03 21:34:53] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:56708->127.0.0.1:15510: use of closed network connection 
+[2022-03-03 21:34:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 21:41:27] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-03-03 21:41:33] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:56754->127.0.0.1:15510: use of closed network connection 
+[2022-03-03 21:41:36] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 21:42:01] [INFO]: 收到好友 小八的狐狸尾巴~(1216878448) 的消息: homo 114 (1077154026) 
+[2022-03-03 21:42:28] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: homo 114 (1979753283) 
+[2022-03-03 21:48:36] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-03-03 21:48:43] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:56910->127.0.0.1:15510: use of closed network connection 
+[2022-03-03 21:48:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 21:49:43] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-03-03 21:49:48] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:57024->127.0.0.1:15510: use of closed network connection 
+[2022-03-03 21:49:51] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 21:50:04] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: homo 114 (17273813) 
+[2022-03-03 21:56:34] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-03-03 21:56:38] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:57032->127.0.0.1:15510: use of closed network connection 
+[2022-03-03 21:56:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 21:56:48] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: homo 114 (-1743863185) 
+[2022-03-03 22:01:13] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-03-03 22:01:18] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:57116->127.0.0.1:15510: use of closed network connection 
+[2022-03-03 22:01:21] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 22:01:27] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: homo 114 (-284560647) 
+[2022-03-03 23:04:56] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:04:56] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:04:56] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:04:56] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:05:01] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:05:01] [INFO]: 使用协议: iPad 
+[2022-03-03 23:05:06] [INFO]: Protocol -> connect to server: 203.205.255.220:8080 
+[2022-03-03 23:05:06] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:05:21] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:05:36] [WARNING]: 恢复会话失败: Packet timed out , 尝试使用正常流程登录. 
+[2022-03-03 23:05:40] [INFO]: Protocol -> connect to server: 203.205.255.220:8080 
+[2022-03-03 23:05:40] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:05:55] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:06:10] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:06:11] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:06:11] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:06:11] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:06:11] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:06:16] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:06:16] [INFO]: 使用协议: iPad 
+[2022-03-03 23:06:20] [INFO]: Protocol -> connect to server: 203.205.255.221:8080 
+[2022-03-03 23:06:21] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:06:36] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:06:51] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:06:52] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:06:52] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:06:52] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:06:52] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:06:57] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:06:57] [INFO]: 使用协议: iPad 
+[2022-03-03 23:07:00] [INFO]: Protocol -> connect to server: 120.241.150.69:8080 
+[2022-03-03 23:07:00] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:07:15] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:07:30] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:07:31] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:07:31] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:07:31] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:07:31] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:07:36] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:07:36] [INFO]: 使用协议: iPad 
+[2022-03-03 23:07:39] [INFO]: Protocol -> connect to server: 203.205.255.221:8080 
+[2022-03-03 23:07:40] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:07:55] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:08:10] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:08:11] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:08:11] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:08:11] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:08:11] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:08:16] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:08:16] [INFO]: 使用协议: iPad 
+[2022-03-03 23:08:22] [INFO]: Protocol -> connect to server: 203.205.255.220:8080 
+[2022-03-03 23:08:22] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:08:37] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:08:52] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:08:52] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:08:52] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:08:52] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:08:52] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:08:57] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:08:57] [INFO]: 使用协议: iPad 
+[2022-03-03 23:09:04] [INFO]: Protocol -> connect to server: 203.205.255.221:8080 
+[2022-03-03 23:09:04] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:09:19] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:09:34] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:09:35] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:09:35] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:09:35] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:09:35] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:09:40] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:09:40] [INFO]: 使用协议: iPad 
+[2022-03-03 23:09:44] [INFO]: Protocol -> connect to server: 120.232.31.106:8080 
+[2022-03-03 23:09:45] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:10:00] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:10:14] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:10:15] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:10:15] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:10:15] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:10:15] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:10:20] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:10:20] [INFO]: 使用协议: iPad 
+[2022-03-03 23:10:24] [INFO]: Protocol -> connect to server: 203.205.255.221:8080 
+[2022-03-03 23:10:25] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:10:40] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:10:55] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:10:56] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:10:56] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:10:56] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:10:56] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:11:01] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:11:01] [INFO]: 使用协议: iPad 
+[2022-03-03 23:11:08] [INFO]: Protocol -> connect to server: 203.205.255.221:8080 
+[2022-03-03 23:11:09] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:11:24] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:11:39] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:11:40] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:11:40] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:11:40] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:11:40] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:11:45] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:11:45] [INFO]: 使用协议: iPad 
+[2022-03-03 23:11:48] [INFO]: Protocol -> connect to server: 120.232.31.106:8080 
+[2022-03-03 23:11:48] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:12:03] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:12:18] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:12:19] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:12:19] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:12:19] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:12:19] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:12:24] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:12:24] [INFO]: 使用协议: iPad 
+[2022-03-03 23:12:28] [INFO]: Protocol -> connect to server: 203.205.255.221:8080 
+[2022-03-03 23:12:29] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:12:44] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:12:59] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:13:00] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:13:00] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:13:00] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:13:00] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:13:05] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:13:05] [INFO]: 使用协议: iPad 
+[2022-03-03 23:13:09] [INFO]: Protocol -> connect to server: 203.205.255.217:8080 
+[2022-03-03 23:13:10] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:13:25] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:13:39] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:13:40] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:13:40] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:13:40] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:13:40] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:13:45] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:13:45] [INFO]: 使用协议: iPad 
+[2022-03-03 23:13:54] [INFO]: Protocol -> connect to server: 183.194.238.246:443 
+[2022-03-03 23:13:55] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:14:10] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:14:24] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:14:25] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:14:25] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:14:25] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:14:25] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:14:30] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:14:30] [INFO]: 使用协议: iPad 
+[2022-03-03 23:14:35] [INFO]: Protocol -> connect to server: 203.205.255.220:8080 
+[2022-03-03 23:14:35] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:14:50] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:15:05] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:15:06] [INFO]: 当前版本:v1.0.0-beta6 
+[2022-03-03 23:15:06] [INFO]: 用户交流群: 721829413 
+[2022-03-03 23:15:06] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:15:06] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:15:11] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:15:11] [INFO]: 使用协议: iPad 
+[2022-03-03 23:15:21] [INFO]: Protocol -> connect to server: 203.205.255.220:8080 
+[2022-03-03 23:15:21] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:15:36] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2022-03-03 23:15:51] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2022-03-03 23:20:19] [INFO]: 当前版本:v1.0.0-rc1 
+[2022-03-03 23:20:19] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-03-03 23:20:19] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-03-03 23:20:24] [INFO]: 开始尝试登录并同步消息... 
+[2022-03-03 23:20:24] [INFO]: 使用协议: iPad 
+[2022-03-03 23:20:30] [INFO]: Protocol -> connect to server: 203.205.255.220:8080 
+[2022-03-03 23:20:34] [INFO]: 登录成功 欢迎使用: 小八的狐狸耳朵~ 
+[2022-03-03 23:20:34] [INFO]: 开始加载好友列表... 
+[2022-03-03 23:20:34] [INFO]: 共加载 4 个好友. 
+[2022-03-03 23:20:34] [INFO]: 开始加载群列表... 
+[2022-03-03 23:20:34] [INFO]: 收到服务器地址更新通知, 将在下一次重连时应用.  
+[2022-03-03 23:20:35] [INFO]: 共加载 5 个群. 
+[2022-03-03 23:20:35] [INFO]: 资源初始化完成, 开始处理信息. 
+[2022-03-03 23:20:35] [INFO]: アトリは、高性能ですから! 
+[2022-03-03 23:20:35] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 23:20:35] [INFO]: 正在检查更新. 
+[2022-03-03 23:20:35] [INFO]: 已连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 23:20:35] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2022-03-03 23:20:40] [INFO]: 开始诊断网络情况 
+[2022-03-03 23:20:45] [INFO]: 网络诊断完成. 未发现问题 
+[2022-03-03 23:21:03] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: homo 114 (-1386912524) 
+[2022-03-03 23:22:32] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-03-03 23:22:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58372->127.0.0.1:15510: use of closed network connection 
+[2022-03-03 23:22:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 23:22:38] [INFO]: 已连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 
+[2022-03-03 23:23:20] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: homo 114 (-632138654) 
+[2022-03-03 23:23:20] [INFO]: 发送群 Py QQbot(813476953) 的消息: [{"type":  ... (1144439233) 
+[2022-03-03 23:24:34] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: homo (858911063) 
+[2022-03-03 23:24:34] [INFO]: 发送群 Py QQbot(813476953) 的消息: [{"type":  ... (-1439129363) 
+[2022-03-03 23:24:39] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: 233 (-583036805) 
+[2022-03-03 23:24:39] [INFO]: 发送群 Py QQbot(813476953) 的消息: [{"type":  ... (1300270570) 
+[2022-03-03 23:25:33] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: homo 259 (981974396) 
+[2022-03-03 23:25:33] [INFO]: 发送群 Py QQbot(813476953) 的消息: [{"type":  ... (1514157209) 
+[2022-03-03 23:26:03] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: homo err (759628815) 
+[2022-03-03 23:26:14] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: homo 244 (-1269934667) 
+[2022-03-03 23:26:15] [INFO]: 发送群 Py QQbot(813476953) 的消息: [{"type":  ... (-1018600157) 
+[2022-03-03 23:27:23] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: homo 2.4 (1563291776) 
+[2022-03-03 23:27:31] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: homo 10 (707444758) 
+[2022-03-03 23:27:32] [INFO]: 发送群 Py QQbot(813476953) 的消息: [{"type":  ... (-1289514580) 
+[2022-03-03 23:41:44] [INFO]: 收到好友 小八的狐狸尾巴~(1216878448) 的消息: homo 114 (-891620091) 
+[2022-03-03 23:41:44] [INFO]: 发送好友 1216878448(1216878448)  的消息: [{"type":  ... (890376041) 
+[2022-03-03 23:43:00] [INFO]: 收到好友 小八的狐狸尾巴~(1216878448) 的消息: homo 22 (-1622746501) 
+[2022-03-03 23:43:00] [INFO]: 发送好友 1216878448(1216878448)  的消息: [{"type":  ... (1108688895) 

@@ -1,0 +1,1 @@
+基于go-cqhttp和nonebot2的qq机器人
