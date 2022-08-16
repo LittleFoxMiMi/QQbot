@@ -4,12 +4,9 @@ NGA 风格 ROLL 点
 掷骰子
 """
 import re
-
 from nonebot import on_command
-from nonebot.adapters import Bot, Event
 from nonebot.typing import T_State
-from nonebot.adapters.cqhttp import MessageEvent
-
+from nonebot.adapters.onebot.v11 import Bot, Event, MessageEvent
 from .NGARoll import *
 
 # region roll
@@ -36,8 +33,7 @@ async def roll_handle_first_receive(bot: Bot, event: MessageEvent,
         state['input'] = args
 
 
-@roll_cmd.args_parser
-async def roll_args_parser(bot: Bot, event: Event, state: T_State):
+async def roll_args_parser(event, state):
     args = str(event.get_message()).strip()
 
     # 检查是否符合规则
@@ -56,6 +52,7 @@ async def roll_args_parser(bot: Bot, event: Event, state: T_State):
     'input',
     prompt='欢迎使用 NGA 风格 ROLL 点插件\n请问你想怎么 ROLL 点\n你可以输入 d100\n也可以输入 2d100+2d50')
 async def roll_handle(bot: Bot, event: MessageEvent, state: T_State):
+    await roll_args_parser(event, state)
     input_str = state['input']
     str_data = roll_dices(input_str)
     await roll_cmd.finish(str_data, at_sender=True)

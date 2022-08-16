@@ -1,6 +1,6 @@
 from typing import Any, Dict
-from nonebot import  on_command
-from nonebot.adapters.cqhttp import Bot, Event, GroupMessageEvent, PrivateMessageEvent
+from nonebot import on_command
+from nonebot.adapters.onebot.v11 import Bot, GroupMessageEvent, PrivateMessageEvent, Event
 from nonebot.rule import to_me
 from nonebot.typing import T_State, T_CalledAPIHook
 

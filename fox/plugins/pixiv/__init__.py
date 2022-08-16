@@ -1,9 +1,7 @@
-from nonebot.adapters.cqhttp.permission import GROUP
-from nonebot.adapters.cqhttp.utils import escape
 from nonebot.rule import to_me
 from .pixiv_p import download_pic, lolicon_api
 from fox.check import files_writer, qq_check
-from nonebot.adapters.cqhttp.event import Event, GroupMessageEvent
+from nonebot.adapters.onebot.v11 import Bot, GroupMessageEvent, GROUP
 from nonebot.plugin import on_command
 from nonebot.adapters import Bot
 from nonebot.typing import T_State

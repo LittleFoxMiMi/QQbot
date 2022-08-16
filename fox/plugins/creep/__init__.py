@@ -1,9 +1,7 @@
-from nonebot.adapters.cqhttp.event import GroupMessageEvent
+from nonebot.adapters.onebot.v11 import Bot, GroupMessageEvent, GROUP
 from nonebot.typing import T_State
 from .creepit import *
 from nonebot.plugin import on_keyword
-from nonebot.adapters.cqhttp.permission import GROUP
-from nonebot.adapters import Bot
 from fox.check import qq_check
 
 super_user = "./fox/data/config/superuser.txt"

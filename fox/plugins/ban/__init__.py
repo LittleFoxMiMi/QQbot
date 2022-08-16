@@ -1,7 +1,6 @@
 from .banban import *
 from fox.check import files_writer, qq_check
-from nonebot.adapters.cqhttp.event import GroupMessageEvent
-from nonebot.adapters.cqhttp.permission import GROUP
+from nonebot.adapters.onebot.v11 import Bot, GroupMessageEvent, GROUP
 from nonebot.plugin import on_command
 from nonebot.typing import T_State
 from nonebot.adapters import Bot

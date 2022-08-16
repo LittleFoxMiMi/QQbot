@@ -1,9 +1,7 @@
-from nonebot.adapters.cqhttp.event import GroupMessageEvent
-from nonebot.adapters.cqhttp.permission import GROUP
+from nonebot.adapters.onebot.v11 import Bot, GroupMessageEvent, GROUP
 from nonebot.plugin import on_keyword
 from nonebot.typing import T_State
 from .fun_source import *
-from nonebot.adapters import Bot
 
 love_true = on_keyword(keywords=["我永远喜欢"], block=True, permission=GROUP)
 

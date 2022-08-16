@@ -1,6 +1,5 @@
 from nonebot import on_command
-from nonebot.adapters.cqhttp.bot import Bot
-from nonebot.adapters.cqhttp.event import MessageEvent
+from nonebot.adapters.onebot.v11 import Bot, MessageEvent
 from nonebot.typing import T_State
 from .homo_code import homo_it
 

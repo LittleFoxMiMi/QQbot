@@ -1,8 +1,6 @@
 from fox.check import files_writer, qq_check
 from nonebot.plugin import on_command, on_message
-from nonebot.adapters.cqhttp.event import GroupMessageEvent
-from nonebot.adapters import Bot
-from nonebot.adapters.cqhttp.permission import GROUP
+from nonebot.adapters.onebot.v11 import Bot, GroupMessageEvent, GROUP
 from nonebot.typing import T_State
 from .repeater import *
 

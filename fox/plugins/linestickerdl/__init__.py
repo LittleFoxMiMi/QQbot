@@ -1,6 +1,5 @@
 from nonebot import on_command
-from nonebot.adapters.cqhttp.bot import Bot
-from nonebot.adapters.cqhttp.event import GroupMessageEvent
+from nonebot.adapters.onebot.v11 import Bot, GroupMessageEvent
 from nonebot.typing import T_State
 from .stickerdl import sticker_download
 from fox.check import qq_check

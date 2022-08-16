@@ -1,8 +1,7 @@
-from nonebot.adapters.cqhttp.event import Event
+from nonebot.adapters.onebot.v11 import Bot, Event
 from nonebot.typing import T_State
 from .cheru_p import *
 from nonebot.plugin import on_command, on_keyword
-from nonebot.adapters import Bot
 
 cheru_it = on_command("切噜一下", block=True)
 

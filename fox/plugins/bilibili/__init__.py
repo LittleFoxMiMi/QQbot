@@ -4,8 +4,7 @@ from .bilibili_p import *
 from nonebot import get_bots
 from nonebot_plugin_apscheduler import scheduler
 from nonebot.adapters import Bot
-from nonebot.adapters.cqhttp.event import GroupMessageEvent
-from nonebot.adapters.cqhttp.permission import GROUP
+from nonebot.adapters.onebot.v11 import Bot, GroupMessageEvent, GROUP
 from nonebot.plugin import on_command
 
 list_adress = "./fox/data/bilibili/list.json"

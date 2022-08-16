@@ -3,8 +3,7 @@ import traceback
 import re
 
 from nonebot import on_command
-from nonebot.adapters.cqhttp.bot import Bot
-from nonebot.adapters.cqhttp.event import MessageEvent
+from nonebot.adapters.onebot.v11 import Bot, MessageEvent
 from nonebot.typing import T_State
 from .TalentManager import TalentManager
 from .Life import Life
@@ -40,8 +39,7 @@ async def _(bot: Bot, event: MessageEvent, state: T_State):
     await liferestart.send(talent_list_words)
 
 
-@liferestart.args_parser
-async def _(bot: Bot, event: MessageEvent, state: T_State):
+async def cancel_arg(event):
     args = str(event.get_message()).strip()
     if args == "cancel" or args == "取消":
         await liferestart.finish("operation canceled")
@@ -50,6 +48,7 @@ async def _(bot: Bot, event: MessageEvent, state: T_State):
 @liferestart.got("talent_choose", prompt="选择你的三个天赋,发送序号空格隔开")
 async def _(bot: Bot, event: MessageEvent, state: T_State):
     global talent_point
+    await cancel_arg(event)
     choose = str(event.get_message()).strip().split(" ")
     if len(choose) != 3:
         await liferestart.reject("选择的天赋数量不正确！")
@@ -78,6 +77,7 @@ async def _(bot: Bot, event: MessageEvent, state: T_State):
     global life
     global talent_list
     global talent_point
+    await cancel_arg(event)
     choose = str(event.get_message()).strip().split(" ")
     if len(choose) != 4:
         await liferestart.reject("参数数量错误！发送“取消”以终止本次游玩")

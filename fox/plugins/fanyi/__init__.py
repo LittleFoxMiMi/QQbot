@@ -1,8 +1,7 @@
 from nonebot.typing import T_State
 from .fanyi_source import *
 from nonebot.plugin import on_command
-from nonebot.adapters.cqhttp.event import Event
-from nonebot.adapters import Bot
+from nonebot.adapters.onebot.v11 import Bot, Event
 import re
 
 
