@@ -29,7 +29,7 @@ async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
     ffmpeg_args = ""
     url = ""
     name_args = "output"
-    if args == [""]:
+    if len_args == 0:
         await youtubedl.finish("至少需要一个url参数")
     elif len_args > 5:
         await youtubedl.finish("传入了过多的参数！\nyoutubedl url [-f mp3] [-name name]")

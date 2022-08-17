@@ -190,9 +190,9 @@ async def get_reply(name: str) -> Union[str, bytes]:
     content = await template.render_async(info=result)
     async with aiofiles.open("./fox/data/ddcheck/out.html", "w", encoding="utf-8") as f:
         await f.write(content)
-    browser = await launch()
+    browser = await launch(headless=True, args=['--no-sandbox'])
     page = await browser.newPage()
-    await page.goto(os.path.abspath('./fox/data/ddcheck/out.html'))
+    await page.goto("file://"+os.path.abspath('./fox/data/ddcheck/out.html'))
     await page.screenshot({'path': "./fox/data/ddcheck/out.jpg", 'fullPage': True})
     await browser.close()
     return 0
