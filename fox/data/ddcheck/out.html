@@ -1,0 +1,515 @@
+<html>
+
+<head>
+    <style>
+        body {
+            margin: 0;
+            zoom: 200%;
+        }
+
+        .image {
+            display: flex;
+            flex-direction: column;
+            margin: 10px;
+            width: max-content;
+            overflow: scroll;
+        }
+
+        .info-box {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+
+        .face {
+            border-radius: 50%;
+            width: 80px;
+            height: 80px;
+            overflow: hidden;
+        }
+
+        .face img {
+            max-width: 100%;
+            height: auto;
+            object-fit: cover;
+            object-position: center;
+        }
+
+        .info {
+            margin-left: 10px;
+            margin-right: 10px;
+            display: flex;
+            flex-direction: column;
+            min-width: 170px;
+            align-items: center;
+        }
+
+        .name-bar {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+
+        .name {
+            font-size: larger;
+            font-weight: bold;
+        }
+
+        .uid {
+            font-size: small;
+            background-color: #dddddd;
+            padding-left: 4px;
+            padding-right: 4px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+            border-radius: 5px;
+            margin-left: 10px;
+        }
+
+        .fans-bar {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            margin-top: 5px;
+        }
+
+        .follows {
+            margin-left: 10px;
+        }
+
+        .data-bar {
+            margin-top: 5px;
+            font-weight: bold;
+        }
+
+        .list {
+            margin-top: 10px;
+            margin-right: 10px;
+            display: flex;
+            flex-direction: row;
+            align-items: top;
+        }
+
+        table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100%;
+            height: min-content;
+            border: 1px solid #ddd;
+        }
+
+        th,
+        td {
+            text-align: left;
+            padding: 5px;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            white-space: nowrap;
+        }
+
+        td {
+            height: 22px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f5f5f5;
+        }
+
+        .up-uid {
+            font-size: x-small;
+            background-color: #dddddd;
+            padding-left: 4px;
+            padding-right: 4px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+            border-radius: 5px;
+            margin-left: 5px;
+        }
+
+        .medal-box {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            margin-left: 10px;
+        }
+
+        .medal-name {
+            height: 14px;
+            display: flex;
+            align-items: center;
+            color: rgb(255, 255, 255);
+            border-style: solid;
+            border-width: 1px;
+            border-right: 0px;
+        }
+
+        .medal-level {
+            height: 14px;
+            display: flex;
+            align-items: center;
+            padding-left: 1px;
+            padding-right: 1px;
+            border-style: solid;
+            border-width: 1px;
+            border-left: 0px;
+            background-color: rgb(255, 255, 255);
+        }
+
+        .tiny {
+            font-size: x-small;
+            margin-left: 3px;
+            margin-right: 3px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="image">
+        <div class="info-box">
+            <div class="face">
+                <img src="http://i1.hdslb.com/bfs/face/3e3189c9fe2b25c797ac9d7513a5dfd85d3a5c55.jpg">
+            </div>
+            <div class="info">
+                <div class="name-bar">
+                    <div class="name">小八的狐狸尾巴</div>
+                    <div class="uid">32953462</div>
+                </div>
+                <div class="fans-bar">
+                    <div class="fans"><b>粉丝：</b>3</div>
+                    <div class="follows"><b>关注：</b>112</div>
+                </div>
+                <div class="data-bar">30.36% (34/112)</div>
+            </div>
+        </div>
+        <div class="list">
+            
+            <table>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">hanser</div>
+                        <div class="up-uid">11073</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">HiiroVTuber</div>
+                        <div class="up-uid">508963009</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">Overidea_China</div>
+                        <div class="up-uid">18149131</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">Mr.Quin</div>
+                        <div class="up-uid">15810</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">VirtuaReal</div>
+                        <div class="up-uid">413748120</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">ywwuyi</div>
+                        <div class="up-uid">1472906636</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">神楽七奈Official</div>
+                        <div class="up-uid">386900246</div>
+                        
+                        
+                        <div class="medal-box">
+                            <div class="medal-name"
+                                style="border-color: #5C968E; background-image: linear-gradient(45deg,#5C968E,#5C968E);">
+                                <div class="tiny">辣辣军</div>
+                            </div>
+                            <div class="medal-level"
+                                style="border-color: #5C968E; color: #5C968E;">
+                                <div class="tiny">2</div>
+                            </div>
+                        </div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">田中姬铃木雏Official</div>
+                        <div class="up-uid">296909317</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">戌亥床Official</div>
+                        <div class="up-uid">458154142</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">早稻叽</div>
+                        <div class="up-uid">1950658</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">有栖Mana_Official</div>
+                        <div class="up-uid">3149619</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">椎名唯华Official</div>
+                        <div class="up-uid">403927583</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">泠鸢yousa</div>
+                        <div class="up-uid">282994</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">泰蕾莎Channel</div>
+                        <div class="up-uid">620903</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">湊-阿库娅Official</div>
+                        <div class="up-uid">375504219</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">物述有栖Official</div>
+                        <div class="up-uid">434565011</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">犬山玉姬Official</div>
+                        <div class="up-uid">12362451</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">猫宫日向Official</div>
+                        <div class="up-uid">291296062</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">白上吹雪Official</div>
+                        <div class="up-uid">332704117</div>
+                        
+                        
+                        <div class="medal-box">
+                            <div class="medal-name"
+                                style="border-color: #5C968E; background-image: linear-gradient(45deg,#5C968E,#5C968E);">
+                                <div class="tiny">喵喵狐</div>
+                            </div>
+                            <div class="medal-level"
+                                style="border-color: #5C968E; color: #5C968E;">
+                                <div class="tiny">3</div>
+                            </div>
+                        </div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">白雪深白Official</div>
+                        <div class="up-uid">405981431</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">百鬼绫目Official</div>
+                        <div class="up-uid">389858027</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">神楽Mea_NHOTBOT</div>
+                        <div class="up-uid">349991143</div>
+                        
+                        
+                        <div class="medal-box">
+                            <div class="medal-name"
+                                style="border-color: #5C968E; background-image: linear-gradient(45deg,#5C968E,#5C968E);">
+                                <div class="tiny">財布</div>
+                            </div>
+                            <div class="medal-level"
+                                style="border-color: #5C968E; color: #5C968E;">
+                                <div class="tiny">1</div>
+                            </div>
+                        </div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">笹木咲Official</div>
+                        <div class="up-uid">436596839</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">米游姬</div>
+                        <div class="up-uid">510189715</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">绯赤艾莉欧_NHOTBOT</div>
+                        <div class="up-uid">407106379</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">花园Serena</div>
+                        <div class="up-uid">380829248</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">菜菜子Nanako</div>
+                        <div class="up-uid">595407557</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">小希小桃Channel</div>
+                        <div class="up-uid">5563350</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">蜜汁工坊</div>
+                        <div class="up-uid">80505</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">还有醒着的么</div>
+                        <div class="up-uid">2100679</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">冰糖IO</div>
+                        <div class="up-uid">198297</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">陆鳐LuLu</div>
+                        <div class="up-uid">1856528671</div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">鹿乃ちゃん</div>
+                        <div class="up-uid">316381099</div>
+                        
+                        
+                        <div class="medal-box">
+                            <div class="medal-name"
+                                style="border-color: #5C968E; background-image: linear-gradient(45deg,#5C968E,#5C968E);">
+                                <div class="tiny">小鹿包</div>
+                            </div>
+                            <div class="medal-level"
+                                style="border-color: #5C968E; color: #5C968E;">
+                                <div class="tiny">2</div>
+                            </div>
+                        </div>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="up-name">黑桃影</div>
+                        <div class="up-uid">456368455</div>
+                        
+                    </td>
+                </tr>
+                
+            </table>
+            
+        </div>
+    </div>
+</body>
+
+</html>

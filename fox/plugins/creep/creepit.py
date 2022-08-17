@@ -19,8 +19,8 @@ base_path = './fox/data/creep'
 
 async def get_at_qq(msg):
     for segment in msg:
-        if segment['type'] == 'at':
-            return segment['data']['qq']
+        if segment.type == 'at':
+            return segment.data['qq']
     return False
 
 
@@ -75,8 +75,8 @@ async def randomClimb():
 async def pictureCqCode(relativePosition):
     relativePosition = relativePosition.strip('./')
     back = relativePosition[relativePosition.find('/'):]
-    filePath = 'file://' + os.path.dirname(__file__) + back
-    filePath = re.sub(r'/plugins/creep','',filePath)
+    filePath = 'file:///' + os.path.abspath("./fox") + back
+    filePath = re.sub(r'/plugins/creep', '', filePath)
     return '[CQ:image,file=' + filePath + ']'
 
 

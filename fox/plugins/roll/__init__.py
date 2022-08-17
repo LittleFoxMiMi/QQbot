@@ -24,28 +24,36 @@ roll 两次点数100和两次点数50
 @roll_cmd.handle()
 async def roll_handle_first_receive(bot: Bot, event: MessageEvent,
                                     state: T_State):
-    args = str(event.message).strip()
+    args = str(event.get_message()).strip().split(" ")
+    args = args[1:]
+    if len(args) == 0:
+        arg = ""
+    else:
+        arg = args[0]
 
     # 检查是否符合规则
-    match = re.match(r'^([\dd+\s]+?)$', args)
+    match = re.match(r'^([\dd+\s]+?)$', arg)
 
-    if args and match:
-        state['input'] = args
+    if arg and match:
+        state['input'] = arg
 
 
 async def roll_args_parser(event, state):
-    args = str(event.get_message()).strip()
-
+    args = str(event.get_message()).strip().split(" ")
+    if len(args) == 1:
+        arg = args[0]
+    elif len(args) == 2:
+        arg = args[1]
     # 检查是否符合规则
-    match = re.match(r'^([\dd+\s]+?)$', args)
+    match = re.match(r'^([\dd+\s]+?)$', arg)
 
-    if not args:
+    if not arg:
         await roll_cmd.reject('ROLL点方式不能为空捏，请重新输入')
 
     if not match:
         await roll_cmd.reject('参数错误捏，请重新输入')
 
-    state[state['_current_key']] = args
+    state['input'] = arg
 
 
 @roll_cmd.got(

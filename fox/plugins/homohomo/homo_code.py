@@ -1,3 +1,4 @@
+from cmath import e
 import execjs
 import aiofiles
 
@@ -11,6 +12,9 @@ async def js_load():
 
 
 async def homo_it(number):
-    content=await js_load()
+    content = await js_load()
     js = execjs.compile(content)
-    return js.call("homo", int(number))
+    try:
+        return js.call("homo", int(str(number)))
+    except Exception as e:
+        return f"数据错误！{e}"

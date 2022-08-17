@@ -20,7 +20,8 @@ talent_point = 20
 @liferestart.handle()
 async def _(bot: Bot, event: MessageEvent, state: T_State):
     args = str(event.get_message()).strip().split(" ")
-    if args is not None:
+    args = args[1:]
+    if len(args) != 0:
         if args[0] == "修仙":
             life.talent.talents.append(TalentManager.talentDict[1048])
             life.talent.talents.append(TalentManager.talentDict[1065])

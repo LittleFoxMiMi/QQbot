@@ -21,6 +21,7 @@ async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
     global file_name
     global video_info
     args = str(event.get_message()).strip().split(" ")
+    args = args[1:]
     if not await qq_check(event.get_user_id(), super_user):
         await youtubedl.finish("你没有权限捏")
     len_args = len(args)

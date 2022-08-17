@@ -9,9 +9,10 @@ test = on_command("test", rule=to_me(), aliases={"测试"}, block=True)
 
 @test.handle()
 async def _(bot: Bot, event: Event, state: T_State):
-    args = str(event.get_message()).strip()
-    if args:
-        state["par"] = args
+    args = str(event.get_message()).strip().split(" ")
+    args = args[1:]
+    if len(args) != 0:
+        state["par"] = args[0]
 
 
 @test.got("par", prompt="1.获取系统时间\n2.测试命令")

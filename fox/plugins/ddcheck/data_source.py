@@ -1,22 +1,20 @@
-import math
-import json
-import httpx
-import jinja2
-from pathlib import Path
-from typing import List, Union
-from nonebot import get_driver
-from nonebot.log import logger
-from nonebot_plugin_apscheduler import scheduler
-from nonebot_plugin_htmlrender import html_to_pic
-
-
 from .config import Config
+from pyppeteer import launch
+from nonebot_plugin_apscheduler import scheduler
+from nonebot.log import logger
+from nonebot import get_driver
+from typing import List, Union
+from pathlib import Path
+import jinja2
+import httpx
+import json
+import os
+import math
+import aiofiles
 
 dd_config = Config.parse_obj(get_driver().config.dict())
-
 data_path = Path("fox/data/ddcheck")
 vtb_list_path = data_path / "vtb_list.json"
-
 dir_path = Path(__file__).parent
 template_path = dir_path / "template"
 env = jinja2.Environment(
@@ -190,4 +188,12 @@ async def get_reply(name: str) -> Union[str, bytes]:
     }
     template = env.get_template("info.html")
     content = await template.render_async(info=result)
-    return await html_to_pic(content, wait=0, viewport={"width": 100, "height": 100})
+    async with aiofiles.open("./fox/data/ddcheck/out.html", "w", encoding="utf-8") as f:
+        await f.write(content)
+    browser = await launch()
+    page = await browser.newPage()
+    await page.goto(os.path.abspath('./fox/data/ddcheck/out.html'))
+    await page.screenshot({'path': "./fox/data/ddcheck/out.jpg", 'fullPage': True})
+    await browser.close()
+    return 0
+    # return await html_to_pic(content, wait=0, viewport={"width": 100, "height": 100})

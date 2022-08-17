@@ -11,7 +11,7 @@ creeper = on_keyword(keywords=["爬", "爪巴"], permission=GROUP, block=True)
 
 @creeper.handle()
 async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
-    msg = event.get_message()
+    msg = event.original_message
     qq = await get_at_qq(msg)
     if qq:
         if await qq_check(qq, super_user):

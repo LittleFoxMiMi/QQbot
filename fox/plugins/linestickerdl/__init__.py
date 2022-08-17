@@ -14,6 +14,7 @@ linesticker = on_command(
 @linesticker.handle()
 async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
     args = str(event.get_message()).strip().split(" ")
+    args = args[1:]
     if not await qq_check(event.get_user_id(), super_user):
         linesticker.finish("你没有权限捏")
     if args != ['']:

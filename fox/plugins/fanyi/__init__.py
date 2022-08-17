@@ -10,15 +10,15 @@ fanyi = on_command("翻译", block=True)
 
 @fanyi.handle()
 async def fanyi_p(bot: Bot, event: Event, state: T_State):
-    args = str(event.get_message()).strip()
-    ag = args.split(" ")
-    if len(ag) < 2:
+    args = str(event.get_message()).strip().split(" ")
+    args = args[1:]
+    if len(args) < 2:
         await fanyi.finish("参数错误捏\n本命令的参数为：\n翻译 [次数] [原文]")
     try:
-        t = int(re.sub("次", "", ag[0]))/3+1
+        t = int(re.sub("次", "", args[0]))/3+1
     except Exception as e:
         await fanyi.finish("参数错误捏\n本命令的参数为：\n翻译 [次数] [原文]")
-    s_msg = ag[1]
+    s_msg = args[1]
     if s_msg == "":
         await fanyi.finish("内容为空！")
     if t > 17:

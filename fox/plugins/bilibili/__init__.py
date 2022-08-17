@@ -47,21 +47,21 @@ async def bili_admin(bot: Bot, event: GroupMessageEvent, state: T_State):
     if not await qq_check(event.get_user_id(), super_user):
         bili_describe.finish("你没有权限捏")
     data = await data_load(list_adress)
-    args = str(event.get_message()).strip()
-    ag = args.split(" ")
-    if args == "":
+    args = str(event.get_message()).strip().split(" ")
+    args = args[1:]
+    if len(args) == 0:
         await bili_describe.finish(message=str(await group_query(event.group_id, data)))
     try:
-        if ag[0] == "添加订阅":
-            nickname = ag[1]
-            uid = ag[2]
+        if args[0] == "添加订阅":
+            nickname = args[1]
+            uid = args[2]
             if len(str(await aio_get(f'https://api.bilibili.com/x/space/acc/info?mid={uid}&jsonp=jsonp'))) < 50:
                 await bili_describe.finish("404 Uid Not Found!\n你大概是输错了罢。。。\n      对话已关闭")
             else:
                 await bili_describe.finish(str(await describe_writer(data, "add", nickname, uid, event.group_id)))
-        elif ag[0] == "取消订阅":
-            uid = ag[2]
+        elif args[0] == "取消订阅":
+            uid = args[2]
             await bili_describe.finish(str(await describe_writer(data, "del", "", uid, event.group_id)))
     except Exception as e:
-        if len(ag) < 3:
+        if len(args) < 3:
             await bili_describe.finish("参数错误捏\n正确的命令格式为\n'b站订阅 | 取消/添加订阅 | 昵称 | uid'")

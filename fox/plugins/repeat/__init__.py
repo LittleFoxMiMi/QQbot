@@ -6,7 +6,7 @@ from .repeater import *
 
 repeat_message = on_message(
     permission=GROUP,
-    priority=5,
+    priority=20,
     block=True,
 )
 ban_group = "./fox/data/repeater_data/ban_group.txt"

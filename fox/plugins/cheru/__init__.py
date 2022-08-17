@@ -8,7 +8,12 @@ cheru_it = on_command("切噜一下", block=True)
 
 @cheru_it.handle()
 async def cheru_encode(bot: Bot, event: Event, state: T_State):
-    msg = str(event.get_message()).strip()
+    args = str(event.get_message()).strip().split(" ")
+    args = args[1:]
+    if len(args) == 1:
+        msg = args[0]
+    else:
+        await cheru_it.finish("参数错误捏")
     if len(msg) > 500:
         await cheru_it.finish('切、切噜太长切不动切噜噜……')
     else:

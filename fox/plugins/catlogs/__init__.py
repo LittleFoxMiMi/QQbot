@@ -13,12 +13,13 @@ catlogs = on_command("catlogs", aliases={"showlogs"}, priority=1, block=True)
 
 @catlogs.handle()
 async def _(bot: Bot, event: MessageEvent, state: T_State):
-    args = str(event.get_message()).strip()
+    args = str(event.get_message()).strip().split(" ")
+    args = args[1:]
     if not await qq_check(event.get_user_id(), super_user):
         catlogs.finish("你没有权限捏")
-    if args != "":
+    if len(args) != 0:
         try:
-            line = int(args)
+            line = int(args[0])
         except:
             await catlogs.finish("参数错误！")
     else:

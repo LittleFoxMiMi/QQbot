@@ -28,7 +28,8 @@ gbf = > 碧蓝幻想\n\
 
 @pixiv.handle()
 async def pi(bot: Bot, event: GroupMessageEvent, state: T_State):
-    args = str(event.get_message()).split(" ")
+    args = str(event.get_message()).strip().split(" ")
+    args = args[1:]
     if len(args) != 0:
         if len(args) > 2:
             await pixiv.send("过多的参数！")
@@ -65,16 +66,20 @@ pixiv_r18 = on_command("pixiv_admin", rule=to_me(), block=True)
 
 @pixiv_r18.handle()
 async def p_admin(bot: Bot, event: GroupMessageEvent, state: T_State):
-    args = str(event.get_message()).strip()
+    args = str(event.get_message()).strip().split(" ")
+    args = args[1:]
+    if len(args) != 1:
+        await pixiv_r18.finish("参数错误捏\nban,allow,ban_r18,allow_r18")
+    arg = args[0]
     if not await qq_check(event.get_user_id(), super_user):
         await pixiv_r18.finish("你没有权限捏")
-    if args == "ban":
+    if arg == "ban":
         result = await files_writer(event.group_id, "off", ban_group)
-    elif args == "allow":
+    elif arg == "allow":
         result = await files_writer(event.group_id, "on", ban_group)
-    elif args == "allow_r18":
+    elif arg == "allow_r18":
         result = await files_writer(event.group_id, "off", r18_group)
-    elif args == "ban_r18":
+    elif arg == "ban_r18":
         result = await files_writer(event.group_id, "on", r18_group)
     else:
         await pixiv_r18.finish("参数错误捏\nban,allow,ban_r18,allow_r18")
