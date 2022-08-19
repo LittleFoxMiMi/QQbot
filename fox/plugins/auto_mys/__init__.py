@@ -394,5 +394,17 @@ async def _(event: MessageEvent):
     需要stoken来执行米游币获取
     [myb获取]手动进行一次米游币获取
     [myb自动获取开启uid/关闭]开启米游币原神自动获取
+    --------
+    需要cookie ！较为复杂，详见
+    https://blog.ethreal.cn/archives/yysgettoken
+    云原神 绑定/bind : 绑定云原神的token
+    云原神 信息/info: 查询云原神账户信息
+    云原神 签到/sign: 手动签到所绑定的uid（一般绑定之后默认开启自动签到）
+    云原神解绑 解绑cookie并取消自动签到
+    --------
+    需要stoken
+    myb 跟随派蒙的指引录入兑换计划
+    myb_info 查看当前的兑换计划
+    myb_delete 删除你的所有兑换计划
     '''
     await ys_help.finish(help_info)
