@@ -33,3 +33,36 @@
 19:15:47.607227 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
 19:15:47.610353 db@janitor F·4 G·0
 19:15:47.610408 db@open done T·5.626322ms
+=============== Aug 19, 2022 (CST) ===============
+15:40:28.903796 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:40:28.904383 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+15:40:28.904413 db@open opening
+15:40:28.904507 journal@recovery F·2
+15:40:28.935747 journal@recovery recovering @8
+15:40:28.936143 journal@recovery recovering @14
+15:40:28.938091 memdb@flush created L0@15 N·17 S·3KiB "\x01\xf3\x02Q,v20":"\xffP\x1e\x17,v32"
+15:40:28.938183 version@stat F·[3] S·6KiB[6KiB] Sc·[0.75]
+15:40:28.942152 memdb@flush created L0@17 N·2 S·829B "q\x96\x0e\xa0,v59":"\xe8\x9f_\x1a,v60"
+15:40:28.942374 version@stat F·[4] S·7KiB[7KiB] Sc·[1.00]
+15:40:28.943406 db@janitor F·8 G·2
+15:40:28.943430 db@janitor removing manifest-15
+15:40:28.943832 db@janitor removing table-16
+15:40:28.944436 db@open done T·40.002148ms
+15:40:28.946476 table@compaction L0·4 -> L1·0 S·7KiB Q·61
+15:40:28.950269 table@build created L1@19 N·32 S·5KiB "\x01\xf3\x02Q,v20":"\xffP\x1e\x17,v32"
+15:40:28.950340 version@stat F·[0 1] S·5KiB[0B 5KiB] Sc·[0.00 0.00]
+15:40:28.950931 table@compaction committed F-3 S-1KiB Ke·0 D·0 T·4.373262ms
+15:40:28.951042 table@remove removed @17
+15:40:28.951117 table@remove removed @15
+15:40:28.951169 table@remove removed @7
+15:40:28.951213 table@remove removed @4
+=============== Aug 20, 2022 (CST) ===============
+04:30:26.420738 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+04:30:26.434683 version@stat F·[0 1] S·5KiB[0B 5KiB] Sc·[0.00 0.00]
+04:30:26.434756 db@open opening
+04:30:26.434997 journal@recovery F·1
+04:30:26.435173 journal@recovery recovering @18
+04:30:26.468592 memdb@flush created L0@20 N·45 S·10KiB "\bJ\xb6\x04,v81":"\xf6\xe9\xaaB,v89"
+04:30:26.471700 version@stat F·[1 1] S·16KiB[10KiB 5KiB] Sc·[0.25 0.00]
+04:30:26.491121 db@janitor F·4 G·0
+04:30:26.491193 db@open done T·56.401756ms
