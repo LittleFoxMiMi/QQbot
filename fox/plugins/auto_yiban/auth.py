@@ -4,9 +4,9 @@ import json
 import base64
 import time
 import httpx
-import ddddocr
+from .ddddocr import DdddOcr
 
-ocr = ddddocr.DdddOcr()
+ocr = DdddOcr()
 
 path = "./fox/data/auto_yiban/"
 morning_key = "YDS2TEB8SppLt40SvtJhdy6DU__ygPczBahLcCSrpLcIOI36WqfnBAcSexv_vGtfgfHs==UaMkVOlI5lDd3SQXt6Wkh==DRyhENrXujBjpy8G7L6_jmU7lZYQXO0hZYxCK1KrhTkoVTq6KSslmicuHqdaPb9ZAgEh_IcpCWBXGXjw="
