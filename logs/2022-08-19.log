@@ -1,0 +1,368 @@
+[2022-08-19 00:19:02] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 Baki今天吃冒险家(3117086319) 的消息: [CQ:image,file=3db96bba2411a23e3df7d4e0b32c7555.image,subType=0] (1191911619) 
+[2022-08-19 01:22:06] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 魔男(511198723) 的消息: 好帅 (806096981) 
+[2022-08-19 01:55:43] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 ‭‭(2691449141) 的消息: 这背景是什么 (110181942) 
+[2022-08-19 04:30:28] [INFO]: 当前版本:v1.0.0-rc1 
+[2022-08-19 04:30:28] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-08-19 04:30:28] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-08-19 04:30:33] [INFO]: 开始尝试登录并同步消息... 
+[2022-08-19 04:30:33] [INFO]: 使用协议: iPad 
+[2022-08-19 04:30:36] [INFO]: Protocol -> connect to server: 43.135.106.161:8080 
+[2022-08-19 04:30:40] [INFO]: 收到服务器地址更新通知, 将在下一次重连时应用.  
+[2022-08-19 04:30:40] [INFO]: 登录成功 欢迎使用: 小八的狐狸耳朵~ 
+[2022-08-19 04:30:40] [INFO]: 开始加载好友列表... 
+[2022-08-19 04:30:40] [INFO]: 共加载 4 个好友. 
+[2022-08-19 04:30:40] [INFO]: 开始加载群列表... 
+[2022-08-19 04:30:41] [INFO]: 共加载 4 个群. 
+[2022-08-19 04:30:42] [INFO]: 资源初始化完成, 开始处理信息. 
+[2022-08-19 04:30:42] [INFO]: アトリは、高性能ですから! 
+[2022-08-19 04:30:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 04:30:42] [INFO]: 正在检查更新. 
+[2022-08-19 04:30:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 04:30:42] [INFO]: 当前有更新的 go-cqhttp 可供更新, 请前往 https://github.com/Mrs4s/go-cqhttp/releases 下载. 
+[2022-08-19 04:30:42] [INFO]: 当前版本: v1.0.0-rc1 最新版本: v1.0.0-rc3 
+[2022-08-19 04:30:45] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 04:30:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 04:30:47] [INFO]: 开始诊断网络情况 
+[2022-08-19 04:30:48] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 04:30:48] [INFO]: 已连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 04:30:53] [INFO]: 网络诊断完成. 未发现问题 
+[2022-08-19 07:03:40] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 .ᝰꫛꫀꪝ🥀(402818767) 的消息: [CQ:reply,id=110181942][CQ:at,qq=2691449141] 终末之诗mod加的 (1905659552) 
+[2022-08-19 07:45:41] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 阿格努(710621309) 的消息: 盖伦 (-392208614) 
+[2022-08-19 15:40:28] [INFO]: 当前版本:v1.0.0-rc1 
+[2022-08-19 15:40:28] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2022-08-19 15:40:28] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2022-08-19 15:40:33] [INFO]: 开始尝试登录并同步消息... 
+[2022-08-19 15:40:33] [INFO]: 使用协议: iPad 
+[2022-08-19 15:40:38] [INFO]: Protocol -> connect to server: 43.154.240.13:8080 
+[2022-08-19 15:40:39] [WARNING]: 恢复会话失败: token failed , 尝试使用正常流程登录. 
+[2022-08-19 15:40:41] [INFO]: Protocol -> connect to server: 43.135.106.161:8080 
+[2022-08-19 15:40:46] [INFO]: 登录成功 欢迎使用: 小八的狐狸耳朵~ 
+[2022-08-19 15:40:46] [INFO]: 开始加载好友列表... 
+[2022-08-19 15:40:46] [INFO]: 共加载 4 个好友. 
+[2022-08-19 15:40:46] [INFO]: 开始加载群列表... 
+[2022-08-19 15:40:47] [INFO]: 共加载 4 个群. 
+[2022-08-19 15:40:47] [INFO]: 资源初始化完成, 开始处理信息. 
+[2022-08-19 15:40:47] [INFO]: アトリは、高性能ですから! 
+[2022-08-19 15:40:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:40:47] [INFO]: 正在检查更新. 
+[2022-08-19 15:40:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:40:47] [INFO]: 当前有更新的 go-cqhttp 可供更新, 请前往 https://github.com/Mrs4s/go-cqhttp/releases 下载. 
+[2022-08-19 15:40:47] [INFO]: 当前版本: v1.0.0-rc1 最新版本: v1.0.0-rc3 
+[2022-08-19 15:40:50] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:40:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:40:52] [INFO]: 开始诊断网络情况 
+[2022-08-19 15:40:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:40:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:40:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:40:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:40:59] [INFO]: 网络诊断完成. 未发现问题 
+[2022-08-19 15:40:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:40:59] [INFO]: 已连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:41:21] [INFO]: 收到好友 小八的狐狸尾巴~(1216878448) 的消息: mys签到 (-940381131) 
+[2022-08-19 15:41:24] [INFO]: 发送好友 1216878448(1216878448)  的消息: [{"type":  ... (890376041) 
+[2022-08-19 15:41:50] [INFO]: 收到好友 小八的狐狸尾巴~(1216878448) 的消息: 云原神 信息 (-1326064477) 
+[2022-08-19 15:41:51] [INFO]: 发送好友 1216878448(1216878448)  的消息: [{"type":  ... (1108688895) 
+[2022-08-19 15:42:27] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-08-19 15:42:32] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54284->127.0.0.1:15510: use of closed network connection 
+[2022-08-19 15:42:35] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:42:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:42:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:42:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:42:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:42:41] [INFO]: 已连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:42:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-08-19 15:42:52] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54304->127.0.0.1:15510: use of closed network connection 
+[2022-08-19 15:42:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:42:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:42:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:42:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:43:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:43:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:44:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:44:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:45:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:45:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:46:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:46:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:47:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:47:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:48:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:48:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:49:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:49:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:49:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:49:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:49:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:49:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:49:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:49:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2022-08-19 15:49:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:49:13] [INFO]: 已连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/onebot/v11/ws/ 
+[2022-08-19 15:50:15] [INFO]: 收到好友 小八的狐狸尾巴~(1216878448) 的消息: myb获取 (463450684) 
+[2022-08-19 15:50:15] [INFO]: 发送好友 1216878448(1216878448)  的消息: [{"type":  ... (-596530596) 
+[2022-08-19 15:50:20] [INFO]: 发送好友 1216878448(1216878448)  的消息: [{"type":  ... (-1418290486) 
+[2022-08-19 15:50:44] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 调完了 (172479813) 
+[2022-08-19 15:50:50] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 谁来试试 (1786797216) 
+[2022-08-19 15:51:04] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:at,qq=all]  (495414326) 
+[2022-08-19 15:51:21] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 原神帮助 (-2071052916) 
+[2022-08-19 15:51:25] [INFO]: 发送群 <$ÿĀ>非狗X3＆肥欧狗X1＆肥欧鱼X1(859265365) 的消息: [{"type":  ... (-209122022) 
+[2022-08-19 15:59:43] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 怎么用 (1844287673) 
+[2022-08-19 16:00:19] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 最好是电脑 (451586095) 
+[2022-08-19 16:00:34] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 那晚上在搞 (-2082211435) 
+[2022-08-19 16:00:45] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 看文档获取cookie然后添加绑定 (-186332925) 
+[2022-08-19 16:25:45] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 囧※boy(1114167743) 的消息: 没有新的kenshi玩  我要死了 (1996212921) 
+[2022-08-19 16:25:46] [INFO]: 发送群 kenshi汉化和mod研究及暖暖化制作监督委员会-1群(696654735) 的消息: [{"type":  ... (-269313277) 
+[2022-08-19 16:29:22] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 甘蔗(1418318036) 的消息: 没有新的kenshi玩  我要死了 (-1728730219) 
+[2022-08-19 16:38:01] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 Oblivion(645894318) 的消息: 没有新的kenshi玩  我要死了 (139113988) 
+[2022-08-19 16:39:03] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 高橋啟介(791258074) 的消息: 没有新的kenshi玩  我要死了 (2135787154) 
+[2022-08-19 16:39:15] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 高橋啟介(791258074) 的消息: 没有新的涩图看  我要死了 (529141623) 
+[2022-08-19 16:41:13] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 guichu777(3484823613) 的消息: 没有新的kenshi玩  我要死了 (1754087393) 
+[2022-08-19 16:41:53] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 魔男(511198723) 的消息: 没有新的kenshi涩图看  我要死了 (-242979237) 
+[2022-08-19 16:43:13] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 阿格努(710621309) 的消息: 那你们都去S吧[CQ:face,id=98] (-2038210867) 
+[2022-08-19 16:50:03] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 量子幽灵(397596639) 的消息: [CQ:image,file=b24e7672c4c647d459de06d8a153c1c5.image,subType=1] (417844078) 
+[2022-08-19 19:49:41] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 圣徒的亡灵(1339837523) 的消息: 没有新的色图看,我要死了 (1877015544) 
+[2022-08-19 19:49:45] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 圣徒的亡灵(1339837523) 的消息: 没有新的色图看,我要死了 (-152458686) 
+[2022-08-19 19:49:45] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 圣徒的亡灵(1339837523) 的消息: 没有新的色图看,我要死了 (-2115069228) 
+[2022-08-19 19:49:46] [INFO]: 发送群 kenshi汉化和mod研究及暖暖化制作监督委员会-1群(696654735) 的消息: [{"type":  ... (290555717) 
+[2022-08-19 19:49:46] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 圣徒的亡灵(1339837523) 的消息: 没有新的色图看,我要死了 (1716959187) 
+[2022-08-19 19:49:46] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 圣徒的亡灵(1339837523) 的消息: 没有新的色图看,我要死了 (883383476) 
+[2022-08-19 19:49:47] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 圣徒的亡灵(1339837523) 的消息: 没有新的色图看,我要死了 (1134586914) 
+[2022-08-19 19:58:14] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵发了新动态：  ... (-1836411080) 
+[2022-08-19 19:58:16] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (-443701330) 
+[2022-08-19 19:58:18] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (2089088532) 
+[2022-08-19 19:58:18] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (193185410) 
+[2022-08-19 20:40:20] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-08-19 22:22:45] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 ‭‭(2691449141) 的消息: 没有新的色图看,我要死了 (-626442856) 
+[2022-08-19 22:24:47] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 一般通过beep信徒(2168508360) 的消息: [CQ:image,file=48d3fe86b8264940d20fdba53adbcc97.image,subType=0] (-1381102322) 
+[2022-08-19 22:24:51] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 一般通过beep信徒(2168508360) 的消息: 来了来了 (868915373) 
+[2022-08-19 22:24:59] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 一般通过beep信徒(2168508360) 的消息: 别死家人们 (1154328635) 
+[2022-08-19 22:52:57] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 高橋啟介(791258074) 的消息: 可以，可爱 (-574293631) 
+[2022-08-19 22:53:02] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 高橋啟介(791258074) 的消息: [CQ:image,file=cc242030872e7a5d329605714565f806.image,subType=1] (-1430009577) 
