@@ -29,7 +29,7 @@ scheduler.add_job(
     func=auto_yiban,
     trigger="cron",
     hour=12,
-    id="auto_yiban_morning",
+    id="auto_yiban_noon",
     args=(),
     misfire_grace_time=30
 )
