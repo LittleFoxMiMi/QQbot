@@ -145,13 +145,11 @@ async def ddocr(file_name):
 async def yiban():
     await time_set()
     if await auth():
-        print("易班验证失败！")
-        return
+        return ("易班验证失败！")
     for i in range(5):
         try:
             if await sust_auth():
-                print("sust验证失败")
-                return
+                return ("sust验证失败")
             else:
                 break
         except Exception as e:
