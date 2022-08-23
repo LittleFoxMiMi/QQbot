@@ -56,12 +56,12 @@ async def auth():
         "Cookie": "loginToken=7ddaad13f1d6c5ebd404c91b8d46be8a; client=android; https_waf_cookie=ed07fcc4-a4f0-495daf19a294173d8b6a5435c0753fc89302; _YB_OPEN_V2_0=2lf0210P27PLou0h; yibanM_user_token=7ddaad13f1d6c5ebd404c91b8d46be8a",
     }
     req1 = await aiorequests.get("https://f.yiban.cn/iapp610661", headers=headers)
-    print("易班登录认证1："+req1.status_code)
+    print("易班登录认证1："+str(req1.status_code))
     if req1.status_code != 302:
         return 1
     req2 = await aiorequests.get(
         "https://f.yiban.cn/iapp/index?act=iapp610661", headers=headers)
-    print("易班登录认证2："+req2.status_code)
+    print("易班登录认证2："+str(req2.status_code))
     if req2.status_code != 302:
         return 1
     return 0
@@ -80,7 +80,7 @@ async def sust_auth():
         "Cookie": "PHPSESSID=9a42777bd25bbc36364eb0ef9cc90171",
     }
     req = await aiorequests.get("http://yiban.sust.edu.cn/v4/yibanapi/?verify_request=e9412e43ceef2a1832f481fd316649ad4267daa3a39e74a00171597acaa0a19840f92336864cc39e6f54a6e3fe57459d9d8c30a535c44fbdabfdf7a17814565b0268ab6a2c5d9e929ba494b8e6e3c59b006d4ffbf33d242666adefbaa69d14e7dcdb494e14f4f533460c1b2dca1963b95eef89b4f01d1adf17c0e0b1a45c16bdf5ce47d212a0d02e3963cd44555a7f48fb44b70e6e73b433429f38b02aefdf333c5df6f0b861b09cc7699ae916939935de2eea0f3264a6de5af0560f5a211aef0281a079e638243f90e315c7e238155481f6f5dac46036233e696f2543a9e25c6529228b25c73161e2624bf51dc48c013dee910087c1e83ec17b2fbb51f263a25d4527a8a1f100dba5c5e42055258dba423b20c2efe647e23caad5c598a79e72b59fde8ee6b2832a1cb0a5293c724281&yb_uid=30780000", headers=headers, timeout=30)
-    print("sust登录认证1："+req.status_code)
+    print("sust登录认证1："+str(req.status_code))
     if req.status_code != 302:
         return 1
     return 0
@@ -101,7 +101,7 @@ async def get_img():
     }
     req = await aiorequests.post(
         "http://yiban.sust.edu.cn/v4/public/index.php/admin/login/captcha.html", headers=headers, timeout=30)
-    print("获取验证码："+req.status_code)
+    print("获取验证码："+str(req.status_code))
     data = json.loads(req.text)
     img = data["data"]["image"]
     captcha_id = data["data"]["uniqid"]
@@ -128,8 +128,8 @@ async def post_form(captcha_info):
         "Cookie": "PHPSESSID=9a42777bd25bbc36364eb0ef9cc90171",
         "Accept-Language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
     }
-    req = await aiorequests.post(f"http://yiban.sust.edu.cn/v4/public/index.php/Index/formtime/add.html?desgin_id=25&list_id=12&verify={captcha_info['captcha_code']}&uniqid={captcha_info['captcha_id']}", headers=headers, data=current_content, timeout=30)
-    print("提交表单："+req.status_code)
+    req = await aiorequests.post(f"http://yiban.sust.edu.cn/v4/public/index.php/Index/formtime/add.html?desgin_id={current_design}&list_id=12&verify={captcha_info['captcha_code']}&uniqid={captcha_info['captcha_id']}", headers=headers, data=current_content, timeout=30)
+    print("提交表单："+str(req.status_code))
     data = json.loads(req.text)
     print(data)
     return data["msg"]

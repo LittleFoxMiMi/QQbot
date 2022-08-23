@@ -24,7 +24,7 @@ async def auto_yiban():
         result = await yiban()
     except Exception as e:
         result = str(type(e))
-    await get_bot().send_private_msg(str(user_id), message=str(result))
+    await get_bot().send_private_msg(user_id=user_id, message=result)
 
 
 scheduler.add_job(
