@@ -198,7 +198,7 @@ async def sign_all():
     await auto_sign()
 
 
-@scheduler.scheduled_job('cron', hour=0, minute=10, misfire_grace_time=10)
+@scheduler.scheduled_job('cron', hour=4, minute=0, misfire_grace_time=10)
 async def auto_sign():
     data = await get_auto_sign()
     if data:
@@ -251,7 +251,7 @@ async def auto_sign():
                 logger.error(f'米游社签到结果发送失败：{e}')
 
 
-@scheduler.scheduled_job('cron', hour=0, minute=10, misfire_grace_time=10)
+@scheduler.scheduled_job('cron', hour=4, minute=0, misfire_grace_time=10)
 async def coin_auto_sign():
     data = await get_coin_auto_sign()
     ann = defaultdict(lambda: defaultdict(list))
