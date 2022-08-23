@@ -1,11 +1,22 @@
-from ast import arg
-from email import message
 from nonebot_plugin_apscheduler import scheduler
-from nonebot import get_bot
+from nonebot import get_bot, on_command
+from nonebot.adapters.onebot.v11 import MessageEvent
 
 from .auth import yiban
 
 user_id = "1216878448"
+
+yiban_da = on_command('易班打卡', priority=1, block=True)
+
+
+@yiban_da.handle()
+async def _(event: MessageEvent):
+    await yiban_da.send("执行手动打卡")
+    try:
+        result = await yiban()
+    except Exception as e:
+        result = str(type(e))
+    await yiban_da.finish(result)
 
 
 async def auto_yiban():
