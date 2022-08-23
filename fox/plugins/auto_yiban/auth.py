@@ -4,7 +4,7 @@ import json
 import base64
 import time
 import httpx
-from ddddocr import DdddOcr
+from .ddddocr import DdddOcr
 
 ocr = DdddOcr()
 
