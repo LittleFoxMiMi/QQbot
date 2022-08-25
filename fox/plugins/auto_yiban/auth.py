@@ -170,6 +170,20 @@ async def ddocr(file_name):
     return res
 
 
+async def get_captcha():
+    for i in range(5):
+        try:
+            print(f"获取验证码（{i}/5）")
+            captcha_info = await get_img()
+            break
+        except Exception as e:
+            if isinstance(e, httpx.ReadTimeout):
+                print("验证码超时，正在重试。。。")
+                continue
+            return e
+    return captcha_info
+
+
 async def yiban():
     await time_set()
     location = await auth()
@@ -188,7 +202,6 @@ async def yiban():
                 print("sust认证1超时，正在重试。。。")
                 continue
             return e
-        continue
     for i in range(5):
         try:
             print(f"sust验证2（{i}/5）")
@@ -201,22 +214,16 @@ async def yiban():
                 print("sust认证2超时，正在重试。。。")
                 continue
             return e
-    for i in range(5):
+    captcha_info = await get_captcha()
+    for i in range(8):
         try:
-            print(f"获取验证码（{i}/5）")
-            captcha_info = await get_img()
-            break
-        except Exception as e:
-            if isinstance(e, httpx.ReadTimeout):
-                print("验证码超时，正在重试。。。")
-                continue
-            return e
-        continue
-    for i in range(5):
-        try:
-            print(f"提交表单（{i}/5）")
+            print(f"提交表单（{i}/8）")
             result = await post_form(captcha_info)
             if result == "验证码错误":
+                captcha_info = await get_captcha()
+                i = 0
+                continue
+            if result == "SU":
                 continue
             return result
         except Exception as e:
@@ -224,7 +231,6 @@ async def yiban():
                 print("提交表单超时，正在重试。。。")
                 continue
             return e
-        continue
 
 
 if __name__ == "__main__":
