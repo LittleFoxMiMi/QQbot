@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./fox/plugins/auto_yiban/yiban_api/Core"
+    ]
+}
