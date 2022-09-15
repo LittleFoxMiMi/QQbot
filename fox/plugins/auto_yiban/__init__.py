@@ -31,6 +31,7 @@ scheduler.add_job(
     func=auto_yiban,
     trigger="cron",
     hour=6,
+    minute=2,
     id="auto_yiban_morning",
     args=(),
     misfire_grace_time=30
@@ -40,6 +41,7 @@ scheduler.add_job(
     func=auto_yiban,
     trigger="cron",
     hour=12,
+    minute=2,
     id="auto_yiban_noon",
     args=(),
     misfire_grace_time=30
