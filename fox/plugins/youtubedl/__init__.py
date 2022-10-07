@@ -61,8 +61,11 @@ async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
         await youtubedl.finish("清空download目录错误！")
     check_args = f"yt-dlp {args[0]} --get-title"
     video_info = await check_info(check_args)
-    video_info = video_info.decode()
-    video_info = video_info.replace("\n", "")
+    if video_info!="":
+        video_info = video_info.decode()
+        video_info = video_info.replace("\n", "")
+    else:
+        video_info = "可能是目标网站不支持获取标题,比如推特"
     await youtubedl.send(video_info)
 
 
@@ -71,7 +74,8 @@ async def check_info(args):
         info = subprocess.check_output(args, shell=True)
         return info
     except Exception as e:
-        await youtubedl.finish("获取信息错误！\n错误代码是:"+str(e))
+        await youtubedl.send("获取信息错误！\n错误代码是:"+str(e))
+        return ""
 
 
 async def download(args):

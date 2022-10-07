@@ -29,7 +29,7 @@ async def time_set():
     global current_design
     global current_content
     now_localtime = time.strftime("%H:%M:%S", time.localtime())
-    if "06:00:00" < now_localtime < "10:00:00":
+    if "05:00:00" < now_localtime < "10:00:00":
         current_key = morning_key
         current_design = morning_design
         current_content = morning_content
