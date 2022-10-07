@@ -33,8 +33,7 @@ async def get_sign_list():
     url = 'https://api-takumi.mihoyo.com/event/bbs_sign_reward/home'
     headers = {
         'x-rpc-app_version': '2.11.1',
-        'User-Agent':        'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 ('
-                             'KHTML, like Gecko) miHoYoBBS/2.11.1',
+        'User-Agent':        'Mozilla/5.0 (Linux; Android 10; LM-F100 Build/QKQ1.200719.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.79 Mobile Safari/537.36 miHoYoBBS/2.34.2',
         'x-rpc-client_type': '5',
         'Referer':           'https://webstatic.mihoyo.com/'
     }
@@ -60,8 +59,7 @@ async def get_sign_info(uid):
         'Origin':            'https://webstatic.mihoyo.com',
         'Referer':           'https://webstatic.mihoyo.com/',
         'Cookie':            cookie['cookie'],
-        'User-Agent':        'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS '
-                             'X) AppleWebKit/605.1.15 (KHTML, like Gecko) miHoYoBBS/2.11.1',
+        'User-Agent':        'Mozilla/5.0 (Linux; Android 10; LM-F100 Build/QKQ1.200719.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.79 Mobile Safari/537.36 miHoYoBBS/2.34.2',
     }
     params = {
         'act_id': 'e202009291139501',
@@ -90,13 +88,52 @@ async def sign(uid):
         'uid':    uid,
         'region': server_id
     }
-    resp = await aiorequests.post(url=url, headers=headers, json=json_data)
-    data = resp.json()
+    for i in range(2):
+        logger.info(f"---UID{uid}的签到尝试第{i}次，共3次---")
+        resp = await aiorequests.post(url=url, headers=headers, json=json_data)
+        if resp.status_code == 429:
+            time.sleep(10)  # 429同ip请求次数过多，尝试sleep10s进行解决
+            logger.warning(f'429 Too Many Requests ，即将进入下一次请求')
+            continue
+        data = resp.json()
+        if i == 2:
+            logger.info(f"UID{uid}的原神签到失败了！")
+            return f'你的uid{uid}的米游社签到失败，原因是遭遇验证码捏。'
+        if data["retcode"] == 0 and data["data"]["success"] == 1:
+            logger.info("侦测到验证码")
+            validate = await get_validate(data["data"]["gt"], data["data"]["challenge"])
+            if validate != "":
+                headers["x-rpc-challenge"] = data["data"]["challenge"]
+                headers["x-rpc-validate"] = validate
+                headers["x-rpc-seccode"] = f'{validate}|jordan'
+            time.sleep(random.randint(6, 15))
+        else:
+            break
     logger.info(f'---UID{uid}的签到状态码为{data["retcode"]}，结果为{data["message"]}---')
     if await check_retcode(data, cookie, uid):
         return data
     else:
         return f'你的uid{uid}的cookie已过期,需要重新绑定哦!'
+
+
+async def get_validate(gt, challenge):
+    header = {
+        "Accept": "*/*",
+        "X-Requested-With": "com.mihoyo.hyperion",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; LM-F100 Build/QKQ1.200719.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.79 Mobile Safari/537.36 miHoYoBBS/2.34.2",
+        "Referer": "https://webstatic.mihoyo.com/",
+        "Accept-Language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7"
+    }
+    validate = ""
+    req = await aiorequests.get(
+        f"https://api.geetest.com/ajax.php?gt={gt}&challenge={challenge}&lang=zh-cn&pt=3&client_type=web_mobile",
+        headers=header)
+    print(req.text)
+    if req.status_code == 200:
+        data = json.loads(req.text.replace("(", "").replace(")", ""))
+        if "success" in data["status"] and "success" in data["data"]["result"]:
+            validate = data["data"]["validate"]
+    return validate
 
 
 def get_sign_headers(cookie):
