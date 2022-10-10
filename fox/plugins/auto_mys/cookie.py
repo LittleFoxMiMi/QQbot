@@ -3,7 +3,7 @@ import json
 import random
 import re
 import string
-from time import time
+from time import time, sleep
 from littlepaimon_utils import aiorequests
 from nonebot import logger
 
@@ -92,7 +92,7 @@ async def sign(uid):
         logger.info(f"---UID{uid}的签到尝试第{i}次，共3次---")
         resp = await aiorequests.post(url=url, headers=headers, json=json_data)
         if resp.status_code == 429:
-            time.sleep(10)  # 429同ip请求次数过多，尝试sleep10s进行解决
+            sleep(10)  # 429同ip请求次数过多，尝试sleep10s进行解决
             logger.warning(f'429 Too Many Requests ，即将进入下一次请求')
             continue
         data = resp.json()
@@ -106,7 +106,7 @@ async def sign(uid):
                 headers["x-rpc-challenge"] = data["data"]["challenge"]
                 headers["x-rpc-validate"] = validate
                 headers["x-rpc-seccode"] = f'{validate}|jordan'
-            time.sleep(random.randint(6, 15))
+            sleep(random.randint(6, 15))
         else:
             break
     logger.info(f'---UID{uid}的签到状态码为{data["retcode"]}，结果为{data["message"]}---')
