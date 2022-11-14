@@ -86,8 +86,9 @@ async def get_uid_by_name(name: str) -> int:
     try:
         url = "http://api.bilibili.com/x/web-interface/search/type"
         params = {"search_type": "bili_user", "keyword": name}
+        headers = {"cookie": dd_config.bilibili_cookie}
         async with httpx.AsyncClient() as client:
-            resp = await client.get(url, params=params, timeout=10)
+            resp = await client.get(url, params=params, headers=headers, timeout=10)
             result = resp.json()
             for user in result["data"]["result"]:
                 if user["uname"] == name:
