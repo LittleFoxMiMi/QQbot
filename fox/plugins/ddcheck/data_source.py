@@ -12,6 +12,7 @@ import os
 import math
 import aiofiles
 
+ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 dd_config = Config.parse_obj(get_driver().config.dict())
 data_path = Path("fox/data/ddcheck")
 vtb_list_path = data_path / "vtb_list.json"
@@ -86,7 +87,8 @@ async def get_uid_by_name(name: str) -> int:
     try:
         url = "http://api.bilibili.com/x/web-interface/search/type"
         params = {"search_type": "bili_user", "keyword": name}
-        headers = {"cookie": dd_config.bilibili_cookie}
+        headers = {"cookie": dd_config.bilibili_cookie,
+                   "User-Agent": ua}
         async with httpx.AsyncClient() as client:
             resp = await client.get(url, params=params, headers=headers, timeout=10)
             result = resp.json()
